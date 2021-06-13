@@ -44,7 +44,7 @@ namespace Api.Services
             new Data {
                 Vaccinated = (from stamp in stamps select stamp.Details.Vaccinated).Sum(),
                 Deaths =  (from stamp in stamps select stamp.Details.Deaths).Sum(),
-                Recovered =  (from stamp in stamps select stamp.Details.Recovered).Sum(),
+                Recovered =  (from stamp in stamps select stamp.Details.Recovered).Max(),
                 Tested =  (from stamp in stamps select stamp.Details.Tested).Sum(),
                 Confirmed =  (from stamp in stamps select stamp.Details.Confirmed).Sum()
             };
@@ -62,21 +62,26 @@ namespace Api.Services
                 dynamic regionData = JsonConvert.DeserializeObject(regionJson);
                 var regionIsolated = regionData.features;
 
-                string timeJson = Encoding.ASCII.GetString(client.DownloadData("https://covid.ourworldindata.org/data/owid-covid-data.json"));
-                dynamic timeData = JsonConvert.DeserializeObject(timeJson);
-                var timeStamps = timeData.MAR.data;
+                var timeJson = new Dictionary<string, dynamic>() {
+                    ["part1"] = JsonConvert.DeserializeObject(Encoding.ASCII.GetString(client.DownloadData("https://covid.ourworldindata.org/data/owid-covid-data.json"))),
+                    ["part2"] = JsonConvert.DeserializeObject(Encoding.ASCII.GetString(client.DownloadData("https://pomber.github.io/covid19/timeseries.json")))
+                };
+                var timeStampsPart1 = timeJson["part1"].MAR.data;
+                var timeStampsPart2 = timeJson["part2"].Morocco;
 
-                var time_records   =from stamp in ((IEnumerable) timeStamps).Cast<dynamic>()
-                                    let found = (   from record in reference._timeSeriesService.Get() 
-                                                    where record.Date == (DateTime)stamp.date 
-                                                    select record).Count() > 0
+                var time_records   =from stamp in ((IEnumerable) timeStampsPart1).Cast<dynamic>()
+                                    let found =(from record in reference._timeSeriesService.Get() 
+                                                where record.Date == (DateTime)stamp.date 
+                                                select record).Count() > 0
                                     where found == false
                                     select new TimeStamp {
                                         Date = stamp.date,
                                         Details = new Data {
                                             Confirmed = stamp.new_cases ?? 0,
                                             Deaths = stamp.new_deaths ?? 0,
-                                            Recovered = 0, // not in api sadge
+                                            Recovered =(from stamp2 in ((IEnumerable) timeStampsPart2).Cast<dynamic>() 
+                                                        where (DateTime) stamp2.date ==  (DateTime)stamp.date 
+                                                        select stamp2.recovered).FirstOrDefault() ?? 0,
                                             Vaccinated = stamp.new_vaccinations ?? 0,
                                             Tested = stamp.new_tests ?? 0
                                         }
