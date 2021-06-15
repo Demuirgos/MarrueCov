@@ -28,8 +28,9 @@
     private string[] Chart2XAxisLabels(IEnumerable<TimeStamp> _Stamps) => (from stamp in _Stamps orderby stamp.Date group stamp by stamp.Date.ToString("MMM") into s select s.Key.ToString()).ToArray();
     private string[] Chart3XAxisLabels(IEnumerable<Region> _Regions) => new string[]{"Recovered", "Quarantined", "Dead"};
     private string[] Chart4XAxisLabels(IEnumerable<Region> _Regions) => new string[]{"Recovered", "Confirmed", "Dead"};
-    public async Task Populate(Country marruecos){
-        Morocco = marruecos;
+    public async Task Populate(Country marruecos = null, string filter = ""){
+        if(marruecos is not null)
+            Morocco = marruecos;
         var Stamps = Morocco.Evolution;
         IEnumerable<double> SpreadForChart1 (IEnumerable<TimeStamp> v, Func<TimeStamp, double> f) =>
             from stamp in v orderby stamp.Date select f(stamp);
@@ -54,13 +55,10 @@
         };
 
 
-        var (RecoveredT, ConfirmedT, DeathT) =  Morocco.Regions
-                               .Select((r) => (r.Details.Recovered, r.Details.Confirmed, r.Details.Deaths))
-                               .Aggregate((0, 0 ,0), (acc, old) => {
-                                   var (o_r,o_c,o_d) = old;
-                                   var (n_r,n_c,n_d) = acc;
-                                   return (o_r > n_r ? o_r : n_r, o_c + n_c, o_d + n_d);
-                                });
+        var (RecoveredT, ConfirmedT, DeathT) = filter == "" ? (Morocco.Details.Recovered, Morocco.Details.Confirmed, Morocco.Details.Deaths)
+                                                              : (   from region in Morocco.Regions 
+                                                                    where region.Name.Contains(filter)
+                                                                    select (region.Details.Recovered, region.Details.Confirmed, region.Details.Deaths)).FirstOrDefault();
         SeriesChart3 = new double[]{RecoveredT, (ConfirmedT - DeathT - RecoveredT), DeathT};
         
         SeriesChart4 = (from region in Morocco.Regions select new ChartSeries() { 
@@ -69,6 +67,6 @@
         }).ToList();
         Options.YAxisTicks = 500;
         Options.InterpolationOption  = InterpolationOption.NaturalSpline;
+        StateHasChanged();
     }
 }
-        
