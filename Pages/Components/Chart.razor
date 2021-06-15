@@ -26,7 +26,7 @@
     private ChartOptions Options = new ChartOptions();
     private string[] Chart1XAxisLabels(IEnumerable<TimeStamp> _Stamps) => (from stamp in _Stamps orderby stamp.Date select stamp.Date.ToString("dd-MM-yyyy")).ToArray();
     private string[] Chart2XAxisLabels(IEnumerable<TimeStamp> _Stamps) => (from stamp in _Stamps orderby stamp.Date group stamp by stamp.Date.ToString("MMM") into s select s.Key.ToString()).ToArray();
-    private string[] Chart3XAxisLabels(IEnumerable<Region> _Regions) => new string[]{"Tested", "Recovered", "Confirmed", "Dead"};
+    private string[] Chart3XAxisLabels(IEnumerable<Region> _Regions) => new string[]{"Recovered", "Quarantined", "Dead"};
     private string[] Chart4XAxisLabels(IEnumerable<Region> _Regions) => new string[]{"Recovered", "Confirmed", "Dead"};
     public async Task Populate(Country marruecos){
         Morocco = marruecos;
@@ -54,14 +54,14 @@
         };
 
 
-        var (TestesT, RecoveredT, ConfirmedT, DeathT) =  Morocco.Regions
-                               .Select((r) => (r.Details.Tested, r.Details.Recovered, r.Details.Confirmed, r.Details.Deaths))
-                               .Aggregate((0, 0, 0 ,0), (acc, old) => {
-                                   var (o_t,o_r,o_c,o_d) = old;
-                                   var (n_t,n_r,n_c,n_d) = acc;
-                                   return (o_t + n_t, o_r > n_r ? o_r : n_r, o_c + n_c, o_d + n_d);
+        var (RecoveredT, ConfirmedT, DeathT) =  Morocco.Regions
+                               .Select((r) => (r.Details.Recovered, r.Details.Confirmed, r.Details.Deaths))
+                               .Aggregate((0, 0 ,0), (acc, old) => {
+                                   var (o_r,o_c,o_d) = old;
+                                   var (n_r,n_c,n_d) = acc;
+                                   return (o_r > n_r ? o_r : n_r, o_c + n_c, o_d + n_d);
                                 });
-        SeriesChart3 = new double[]{TestesT, RecoveredT, ConfirmedT, DeathT};
+        SeriesChart3 = new double[]{RecoveredT, (ConfirmedT - DeathT - RecoveredT), DeathT};
         
         SeriesChart4 = (from region in Morocco.Regions select new ChartSeries() { 
             Name = region.Name, 
@@ -71,3 +71,4 @@
         Options.InterpolationOption  = InterpolationOption.NaturalSpline;
     }
 }
+        
