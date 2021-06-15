@@ -1,0 +1,73 @@
+@inject IJSRuntime JSRuntime
+<MudTabs Outlined="true" Position="Position.Left" Rounded="true" Border="true"
+    ApplyEffectsToContainer="true" Class="mt-8" PanelClass="pa-6" Style="overflow-y:scroll; Height:80%" >
+    <MudTabPanel Text="Daily Graph">
+        <MudChart ChartType="ChartType.Line" ChartSeries="@SeriesChart1" XAxisLabels="@Chart1XAxisLabels(Morocco.Evolution)" Width="100%" Height="100%"/>
+    </MudTabPanel>
+    <MudTabPanel Text="Monthly Graph">
+        <MudChart ChartType="ChartType.Bar" ChartSeries="@SeriesChart2" XAxisLabels="@Chart2XAxisLabels(Morocco.Evolution)" Width="100%" Height="100%"/>
+    </MudTabPanel>
+    <MudTabPanel Text="Data Graph">
+        <MudChart ChartType="ChartType.Pie" InputData="@SeriesChart3" InputLabels="@Chart3XAxisLabels(Morocco.Regions)" Width="100%" Height="100%" />
+    </MudTabPanel>
+    <MudTabPanel Text="Regions Data">
+        <MudChart ChartType="ChartType.Bar" ChartSeries="@SeriesChart4" InputLabels="@Chart4XAxisLabels(Morocco.Regions)" Width="100%" Height="100%" />
+    </MudTabPanel>
+</MudTabs>
+
+
+@code {
+    [Parameter] public Country Morocco {get; set;}
+    private int Index = -1; //default value cannot be 0 -> first selectedindex is 0.
+    private List<ChartSeries> SeriesChart1 = new List<ChartSeries>();
+    private List<ChartSeries> SeriesChart2 = new List<ChartSeries>();
+    private List<ChartSeries> SeriesChart4 = new List<ChartSeries>();
+    private double[] SeriesChart3 = { 0, 0, 0, 0 };
+    private ChartOptions Options = new ChartOptions();
+    private string[] Chart1XAxisLabels(IEnumerable<TimeStamp> _Stamps) => (from stamp in _Stamps orderby stamp.Date select stamp.Date.ToString("dd-MM-yyyy")).ToArray();
+    private string[] Chart2XAxisLabels(IEnumerable<TimeStamp> _Stamps) => (from stamp in _Stamps orderby stamp.Date group stamp by stamp.Date.ToString("MMM") into s select s.Key.ToString()).ToArray();
+    private string[] Chart3XAxisLabels(IEnumerable<Region> _Regions) => new string[]{"Tested", "Recovered", "Confirmed", "Dead"};
+    private string[] Chart4XAxisLabels(IEnumerable<Region> _Regions) => new string[]{"Recovered", "Confirmed", "Dead"};
+    public async Task Populate(Country marruecos){
+        Morocco = marruecos;
+        var Stamps = Morocco.Evolution;
+        IEnumerable<double> SpreadForChart1 (IEnumerable<TimeStamp> v, Func<TimeStamp, double> f) =>
+            from stamp in v orderby stamp.Date select f(stamp);
+        SeriesChart1 = new List<ChartSeries>(){
+            new ChartSeries() { Name = "Vaccinated", Data = SpreadForChart1(Stamps, (s) => s.Details.Vaccinated).ToArray() },
+            new ChartSeries() { Name = "Deaths", Data = SpreadForChart1(Stamps, (s) => s.Details.Deaths).ToArray() },
+            new ChartSeries() { Name = "Confirmed", Data = SpreadForChart1(Stamps, (s) => s.Details.Confirmed).ToArray() },
+            new ChartSeries() { Name = "Tested", Data = SpreadForChart1(Stamps, (s) => s.Details.Tested).ToArray() },
+            new ChartSeries() { Name = "Recovered", Data = SpreadForChart1(Stamps, (s) => s.Details.Recovered).ToArray() }
+        };
+        IEnumerable<double> SpreadForChart2 (IEnumerable<TimeStamp> v, Func<TimeStamp, double> f) => 
+            from stamp in v 
+            orderby stamp.Date 
+            group stamp by stamp.Date.ToString("MMM") 
+            into stmp
+            let query = (from _stamp in stmp select f(_stamp)).Sum()
+            select (double)query;
+        SeriesChart2 = new List<ChartSeries>(){
+            new ChartSeries() { Name = "Tested", Data = SpreadForChart2(Stamps, (s) => (double)s.Details.Tested).ToArray() },
+            new ChartSeries() { Name = "Deaths", Data = SpreadForChart2(Stamps, (s) => (double)s.Details.Deaths).ToArray() },
+            new ChartSeries() { Name = "Confirmed", Data = SpreadForChart2(Stamps, (s) => (double)s.Details.Confirmed).ToArray() },
+        };
+
+
+        var (TestesT, RecoveredT, ConfirmedT, DeathT) =  Morocco.Regions
+                               .Select((r) => (r.Details.Tested, r.Details.Recovered, r.Details.Confirmed, r.Details.Deaths))
+                               .Aggregate((0, 0, 0 ,0), (acc, dt) => {
+                                   var (o_t,o_r,o_c,o_d) = dt;
+                                   var (n_t,n_r,n_c,n_d) = acc;
+                                   return (o_t + n_t, o_c + n_c, o_d + n_d, o_r > n_r ? o_r : n_r);
+                                });
+        SeriesChart3 = new double[]{TestesT, RecoveredT, ConfirmedT, DeathT};
+        
+        SeriesChart4 = (from region in Morocco.Regions select new ChartSeries() { 
+            Name = region.Name, 
+            Data = new double[]{ region.Details.Confirmed, region.Details.Recovered, region.Details.Deaths} 
+        }).ToList();
+        Options.YAxisTicks = 500;
+        Options.InterpolationOption  = InterpolationOption.NaturalSpline;
+    }
+}

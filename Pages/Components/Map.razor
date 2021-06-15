@@ -1,0 +1,25 @@
+@using MarrueCov.Locals
+
+<div id="MyMap" style="height:100%; width:100%;"/>
+
+@code {
+    [Inject] IJSRuntime JSRuntime { get; set; }
+    
+    protected override async Task OnAfterRenderAsync(bool firstrender)
+    {
+        await JSRuntime.InvokeAsync<Task>("loadMap");
+    }
+
+    public async Task Tack(string key){
+        var selected = (from region in Geographic.Regions where region.Name == key select region.Coordinates).FirstOrDefault();
+        JSRuntime.InvokeAsync<Task>("console.log", Geographic.Regions);
+        JSRuntime.InvokeAsync<Task>("console.log", key);
+        if( selected is not null)
+            await JSRuntime.InvokeAsync<Task>("AddPushpin", new Pushpin {
+                color = "green",
+                location = selected
+                });
+        
+    }
+
+}

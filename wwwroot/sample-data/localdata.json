@@ -1,0 +1,5558 @@
+{
+  "name": "Morocco",
+  "regions": [
+    {
+      "id": "60c5de148b6b7821c25d48a6",
+      "name": "Drâa-Tafilalet",
+      "details": {
+        "confirmed": 15665,
+        "deaths": 2,
+        "recovered": 17,
+        "vaccinated": 0,
+        "tested": 0
+      }
+    },
+    {
+      "id": "60c5de148b6b7821c25d48a7",
+      "name": "Eddakhla-Oued Eddahab",
+      "details": {
+        "confirmed": 4455,
+        "deaths": 0,
+        "recovered": 1,
+        "vaccinated": 0,
+        "tested": 0
+      }
+    },
+    {
+      "id": "60c5de148b6b7821c25d48a8",
+      "name": "Guelmim-Oued Noun",
+      "details": {
+        "confirmed": 6706,
+        "deaths": 0,
+        "recovered": 1,
+        "vaccinated": 0,
+        "tested": 0
+      }
+    },
+    {
+      "id": "60c5de148b6b7821c25d48a9",
+      "name": "Laayoune-Sakia El Hamra",
+      "details": {
+        "confirmed": 7377,
+        "deaths": 0,
+        "recovered": 4,
+        "vaccinated": 0,
+        "tested": 0
+      }
+    },
+    {
+      "id": "60c5de148b6b7821c25d48aa",
+      "name": "Beni Mellal-Khénifra",
+      "details": {
+        "confirmed": 17150,
+        "deaths": 2,
+        "recovered": 2,
+        "vaccinated": 0,
+        "tested": 0
+      }
+    },
+    {
+      "id": "60c5de148b6b7821c25d48ab",
+      "name": "Marrakech-Safi",
+      "details": {
+        "confirmed": 38517,
+        "deaths": 8,
+        "recovered": 4,
+        "vaccinated": 0,
+        "tested": 0
+      }
+    },
+    {
+      "id": "60c5de148b6b7821c25d48ac",
+      "name": "Oriental",
+      "details": {
+        "confirmed": 30373,
+        "deaths": 8,
+        "recovered": 15,
+        "vaccinated": 0,
+        "tested": 0
+      }
+    },
+    {
+      "id": "60c5de148b6b7821c25d48ad",
+      "name": "Rabat-Salé-Kénitra",
+      "details": {
+        "confirmed": 72100,
+        "deaths": 4,
+        "recovered": 7,
+        "vaccinated": 0,
+        "tested": 0
+      }
+    },
+    {
+      "id": "60c5de148b6b7821c25d48ae",
+      "name": "Souss-Massa",
+      "details": {
+        "confirmed": 34636,
+        "deaths": 5,
+        "recovered": 13,
+        "vaccinated": 0,
+        "tested": 0
+      }
+    },
+    {
+      "id": "60c5de148b6b7821c25d48af",
+      "name": "Casablanca-Settat",
+      "details": {
+        "confirmed": 187843,
+        "deaths": 8,
+        "recovered": 7,
+        "vaccinated": 0,
+        "tested": 0
+      }
+    },
+    {
+      "id": "60c5de148b6b7821c25d48b0",
+      "name": "Fés-Meknés",
+      "details": {
+        "confirmed": 20743,
+        "deaths": 8,
+        "recovered": 11,
+        "vaccinated": 0,
+        "tested": 0
+      }
+    },
+    {
+      "id": "60c5de148b6b7821c25d48b1",
+      "name": "Tanger-Tétouan-Al Hoceima",
+      "details": {
+        "confirmed": 43451,
+        "deaths": 1,
+        "recovered": 1,
+        "vaccinated": 0,
+        "tested": 0
+      }
+    }
+  ],
+  "evolution": [
+    {
+      "id": "60c5de118b6b7821c25d46ba",
+      "date": "2020-02-06T23:00:00Z",
+      "details": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0,
+        "vaccinated": 0,
+        "tested": 0
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d46bb",
+      "date": "2020-02-07T23:00:00Z",
+      "details": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0,
+        "vaccinated": 0,
+        "tested": 0
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d46bc",
+      "date": "2020-02-08T23:00:00Z",
+      "details": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0,
+        "vaccinated": 0,
+        "tested": 0
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d46bd",
+      "date": "2020-02-09T23:00:00Z",
+      "details": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0,
+        "vaccinated": 0,
+        "tested": 0
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d46be",
+      "date": "2020-02-10T23:00:00Z",
+      "details": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0,
+        "vaccinated": 0,
+        "tested": 0
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d46bf",
+      "date": "2020-02-11T23:00:00Z",
+      "details": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0,
+        "vaccinated": 0,
+        "tested": 0
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d46c0",
+      "date": "2020-02-12T23:00:00Z",
+      "details": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0,
+        "vaccinated": 0,
+        "tested": 0
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d46c1",
+      "date": "2020-02-13T23:00:00Z",
+      "details": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0,
+        "vaccinated": 0,
+        "tested": 0
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d46c2",
+      "date": "2020-02-14T23:00:00Z",
+      "details": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0,
+        "vaccinated": 0,
+        "tested": 0
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d46c3",
+      "date": "2020-02-15T23:00:00Z",
+      "details": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0,
+        "vaccinated": 0,
+        "tested": 0
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d46c4",
+      "date": "2020-02-16T23:00:00Z",
+      "details": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0,
+        "vaccinated": 0,
+        "tested": 0
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d46c5",
+      "date": "2020-02-17T23:00:00Z",
+      "details": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0,
+        "vaccinated": 0,
+        "tested": 0
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d46c6",
+      "date": "2020-02-18T23:00:00Z",
+      "details": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0,
+        "vaccinated": 0,
+        "tested": 0
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d46c7",
+      "date": "2020-02-19T23:00:00Z",
+      "details": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0,
+        "vaccinated": 0,
+        "tested": 0
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d46c8",
+      "date": "2020-02-20T23:00:00Z",
+      "details": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0,
+        "vaccinated": 0,
+        "tested": 0
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d46c9",
+      "date": "2020-02-21T23:00:00Z",
+      "details": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0,
+        "vaccinated": 0,
+        "tested": 0
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d46ca",
+      "date": "2020-02-22T23:00:00Z",
+      "details": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0,
+        "vaccinated": 0,
+        "tested": 1
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d46cb",
+      "date": "2020-02-23T23:00:00Z",
+      "details": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0,
+        "vaccinated": 0,
+        "tested": 1
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d46cc",
+      "date": "2020-02-24T23:00:00Z",
+      "details": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0,
+        "vaccinated": 0,
+        "tested": 1
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d46cd",
+      "date": "2020-02-25T23:00:00Z",
+      "details": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0,
+        "vaccinated": 0,
+        "tested": 2
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d46ce",
+      "date": "2020-02-26T23:00:00Z",
+      "details": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0,
+        "vaccinated": 0,
+        "tested": 2
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d46cf",
+      "date": "2020-02-27T23:00:00Z",
+      "details": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0,
+        "vaccinated": 0,
+        "tested": 0
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d46d0",
+      "date": "2020-02-28T23:00:00Z",
+      "details": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0,
+        "vaccinated": 0,
+        "tested": 0
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d46d1",
+      "date": "2020-02-29T23:00:00Z",
+      "details": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0,
+        "vaccinated": 0,
+        "tested": 0
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d46d2",
+      "date": "2020-03-01T23:00:00Z",
+      "details": {
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": 0,
+        "vaccinated": 0,
+        "tested": 0
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d46d3",
+      "date": "2020-03-02T23:00:00Z",
+      "details": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0,
+        "vaccinated": 0,
+        "tested": 4
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d46d4",
+      "date": "2020-03-03T23:00:00Z",
+      "details": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0,
+        "vaccinated": 0,
+        "tested": 2
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d46d5",
+      "date": "2020-03-04T23:00:00Z",
+      "details": {
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": 0,
+        "vaccinated": 0,
+        "tested": 7
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d46d6",
+      "date": "2020-03-05T23:00:00Z",
+      "details": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0,
+        "vaccinated": 0,
+        "tested": 10
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d46d7",
+      "date": "2020-03-06T23:00:00Z",
+      "details": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0,
+        "vaccinated": 0,
+        "tested": 5
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d46d8",
+      "date": "2020-03-07T23:00:00Z",
+      "details": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0,
+        "vaccinated": 0,
+        "tested": 0
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d46d9",
+      "date": "2020-03-08T23:00:00Z",
+      "details": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0,
+        "vaccinated": 0,
+        "tested": 0
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d46da",
+      "date": "2020-03-09T23:00:00Z",
+      "details": {
+        "confirmed": 1,
+        "deaths": 1,
+        "recovered": 0,
+        "vaccinated": 0,
+        "tested": 4
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d46db",
+      "date": "2020-03-10T23:00:00Z",
+      "details": {
+        "confirmed": 2,
+        "deaths": 0,
+        "recovered": 0,
+        "vaccinated": 0,
+        "tested": 0
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d46dc",
+      "date": "2020-03-11T23:00:00Z",
+      "details": {
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": 0,
+        "vaccinated": 0,
+        "tested": 0
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d46dd",
+      "date": "2020-03-12T23:00:00Z",
+      "details": {
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": 1,
+        "vaccinated": 0,
+        "tested": 4
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d46de",
+      "date": "2020-03-13T23:00:00Z",
+      "details": {
+        "confirmed": 10,
+        "deaths": 0,
+        "recovered": 1,
+        "vaccinated": 0,
+        "tested": 29
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d46df",
+      "date": "2020-03-14T23:00:00Z",
+      "details": {
+        "confirmed": 11,
+        "deaths": 0,
+        "recovered": 1,
+        "vaccinated": 0,
+        "tested": 0
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d46e0",
+      "date": "2020-03-15T23:00:00Z",
+      "details": {
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": 1,
+        "vaccinated": 0,
+        "tested": 0
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d46e1",
+      "date": "2020-03-16T23:00:00Z",
+      "details": {
+        "confirmed": 9,
+        "deaths": 1,
+        "recovered": 1,
+        "vaccinated": 0,
+        "tested": 38
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d46e2",
+      "date": "2020-03-17T23:00:00Z",
+      "details": {
+        "confirmed": 11,
+        "deaths": 0,
+        "recovered": 1,
+        "vaccinated": 0,
+        "tested": 90
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d46e3",
+      "date": "2020-03-18T23:00:00Z",
+      "details": {
+        "confirmed": 14,
+        "deaths": 0,
+        "recovered": 1,
+        "vaccinated": 0,
+        "tested": 53
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d46e4",
+      "date": "2020-03-19T23:00:00Z",
+      "details": {
+        "confirmed": 14,
+        "deaths": 1,
+        "recovered": 1,
+        "vaccinated": 0,
+        "tested": 94
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d46e5",
+      "date": "2020-03-20T23:00:00Z",
+      "details": {
+        "confirmed": 19,
+        "deaths": 0,
+        "recovered": 3,
+        "vaccinated": 0,
+        "tested": 73
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d46e6",
+      "date": "2020-03-21T23:00:00Z",
+      "details": {
+        "confirmed": 19,
+        "deaths": 1,
+        "recovered": 3,
+        "vaccinated": 0,
+        "tested": 90
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d46e7",
+      "date": "2020-03-22T23:00:00Z",
+      "details": {
+        "confirmed": 28,
+        "deaths": 0,
+        "recovered": 3,
+        "vaccinated": 0,
+        "tested": 159
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d46e8",
+      "date": "2020-03-23T23:00:00Z",
+      "details": {
+        "confirmed": 27,
+        "deaths": 1,
+        "recovered": 6,
+        "vaccinated": 0,
+        "tested": 69
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d46e9",
+      "date": "2020-03-24T23:00:00Z",
+      "details": {
+        "confirmed": 55,
+        "deaths": 1,
+        "recovered": 7,
+        "vaccinated": 0,
+        "tested": 140
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d46ea",
+      "date": "2020-03-25T23:00:00Z",
+      "details": {
+        "confirmed": 50,
+        "deaths": 5,
+        "recovered": 8,
+        "vaccinated": 0,
+        "tested": 211
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d46eb",
+      "date": "2020-03-26T23:00:00Z",
+      "details": {
+        "confirmed": 70,
+        "deaths": 12,
+        "recovered": 11,
+        "vaccinated": 0,
+        "tested": 562
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d46ec",
+      "date": "2020-03-27T23:00:00Z",
+      "details": {
+        "confirmed": 57,
+        "deaths": 2,
+        "recovered": 11,
+        "vaccinated": 0,
+        "tested": 208
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d46ed",
+      "date": "2020-03-28T23:00:00Z",
+      "details": {
+        "confirmed": 77,
+        "deaths": 1,
+        "recovered": 13,
+        "vaccinated": 0,
+        "tested": 297
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d46ee",
+      "date": "2020-03-29T23:00:00Z",
+      "details": {
+        "confirmed": 77,
+        "deaths": 7,
+        "recovered": 15,
+        "vaccinated": 0,
+        "tested": 478
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d46ef",
+      "date": "2020-03-30T23:00:00Z",
+      "details": {
+        "confirmed": 61,
+        "deaths": 3,
+        "recovered": 24,
+        "vaccinated": 0,
+        "tested": 149
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d46f0",
+      "date": "2020-03-31T23:00:00Z",
+      "details": {
+        "confirmed": 37,
+        "deaths": 3,
+        "recovered": 29,
+        "vaccinated": 0,
+        "tested": 445
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d46f1",
+      "date": "2020-04-01T23:00:00Z",
+      "details": {
+        "confirmed": 54,
+        "deaths": 5,
+        "recovered": 31,
+        "vaccinated": 0,
+        "tested": 279
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d46f2",
+      "date": "2020-04-02T23:00:00Z",
+      "details": {
+        "confirmed": 83,
+        "deaths": 4,
+        "recovered": 57,
+        "vaccinated": 0,
+        "tested": 286
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d46f3",
+      "date": "2020-04-03T23:00:00Z",
+      "details": {
+        "confirmed": 128,
+        "deaths": 11,
+        "recovered": 66,
+        "vaccinated": 0,
+        "tested": 411
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d46f4",
+      "date": "2020-04-04T23:00:00Z",
+      "details": {
+        "confirmed": 102,
+        "deaths": 11,
+        "recovered": 76,
+        "vaccinated": 0,
+        "tested": 527
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d46f5",
+      "date": "2020-04-05T23:00:00Z",
+      "details": {
+        "confirmed": 99,
+        "deaths": 10,
+        "recovered": 81,
+        "vaccinated": 0,
+        "tested": 256
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d46f6",
+      "date": "2020-04-06T23:00:00Z",
+      "details": {
+        "confirmed": 64,
+        "deaths": 10,
+        "recovered": 93,
+        "vaccinated": 0,
+        "tested": 333
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d46f7",
+      "date": "2020-04-07T23:00:00Z",
+      "details": {
+        "confirmed": 91,
+        "deaths": 3,
+        "recovered": 97,
+        "vaccinated": 0,
+        "tested": 315
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d46f8",
+      "date": "2020-04-08T23:00:00Z",
+      "details": {
+        "confirmed": 99,
+        "deaths": 4,
+        "recovered": 109,
+        "vaccinated": 0,
+        "tested": 631
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d46f9",
+      "date": "2020-04-09T23:00:00Z",
+      "details": {
+        "confirmed": 74,
+        "deaths": 10,
+        "recovered": 122,
+        "vaccinated": 0,
+        "tested": 856
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d46fa",
+      "date": "2020-04-10T23:00:00Z",
+      "details": {
+        "confirmed": 97,
+        "deaths": 4,
+        "recovered": 146,
+        "vaccinated": 0,
+        "tested": 709
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d46fb",
+      "date": "2020-04-11T23:00:00Z",
+      "details": {
+        "confirmed": 116,
+        "deaths": 7,
+        "recovered": 177,
+        "vaccinated": 0,
+        "tested": 656
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d46fc",
+      "date": "2020-04-12T23:00:00Z",
+      "details": {
+        "confirmed": 102,
+        "deaths": 8,
+        "recovered": 203,
+        "vaccinated": 0,
+        "tested": 524
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d46fd",
+      "date": "2020-04-13T23:00:00Z",
+      "details": {
+        "confirmed": 125,
+        "deaths": 0,
+        "recovered": 217,
+        "vaccinated": 0,
+        "tested": 794
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d46fe",
+      "date": "2020-04-14T23:00:00Z",
+      "details": {
+        "confirmed": 136,
+        "deaths": 1,
+        "recovered": 229,
+        "vaccinated": 0,
+        "tested": 728
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d46ff",
+      "date": "2020-04-15T23:00:00Z",
+      "details": {
+        "confirmed": 259,
+        "deaths": 3,
+        "recovered": 249,
+        "vaccinated": 0,
+        "tested": 1346
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d4700",
+      "date": "2020-04-16T23:00:00Z",
+      "details": {
+        "confirmed": 281,
+        "deaths": 5,
+        "recovered": 281,
+        "vaccinated": 0,
+        "tested": 956
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d4701",
+      "date": "2020-04-17T23:00:00Z",
+      "details": {
+        "confirmed": 121,
+        "deaths": 2,
+        "recovered": 314,
+        "vaccinated": 0,
+        "tested": 737
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d4702",
+      "date": "2020-04-18T23:00:00Z",
+      "details": {
+        "confirmed": 170,
+        "deaths": 4,
+        "recovered": 327,
+        "vaccinated": 0,
+        "tested": 1434
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d4703",
+      "date": "2020-04-20T00:00:00Z",
+      "details": {
+        "confirmed": 191,
+        "deaths": 2,
+        "recovered": 350,
+        "vaccinated": 0,
+        "tested": 1263
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d4704",
+      "date": "2020-04-21T00:00:00Z",
+      "details": {
+        "confirmed": 163,
+        "deaths": 2,
+        "recovered": 393,
+        "vaccinated": 0,
+        "tested": 1714
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d4705",
+      "date": "2020-04-22T00:00:00Z",
+      "details": {
+        "confirmed": 237,
+        "deaths": 4,
+        "recovered": 417,
+        "vaccinated": 0,
+        "tested": 1785
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d4706",
+      "date": "2020-04-23T00:00:00Z",
+      "details": {
+        "confirmed": 122,
+        "deaths": 6,
+        "recovered": 456,
+        "vaccinated": 0,
+        "tested": 2062
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d4707",
+      "date": "2020-04-24T00:00:00Z",
+      "details": {
+        "confirmed": 190,
+        "deaths": 3,
+        "recovered": 486,
+        "vaccinated": 0,
+        "tested": 1986
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d4708",
+      "date": "2020-04-25T00:00:00Z",
+      "details": {
+        "confirmed": 139,
+        "deaths": 1,
+        "recovered": 537,
+        "vaccinated": 0,
+        "tested": 1510
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d4709",
+      "date": "2020-04-26T00:00:00Z",
+      "details": {
+        "confirmed": 168,
+        "deaths": 2,
+        "recovered": 593,
+        "vaccinated": 0,
+        "tested": 1956
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d470a",
+      "date": "2020-04-27T00:00:00Z",
+      "details": {
+        "confirmed": 55,
+        "deaths": 1,
+        "recovered": 695,
+        "vaccinated": 0,
+        "tested": 1855
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d470b",
+      "date": "2020-04-28T00:00:00Z",
+      "details": {
+        "confirmed": 132,
+        "deaths": 3,
+        "recovered": 778,
+        "vaccinated": 0,
+        "tested": 1996
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d470c",
+      "date": "2020-04-29T00:00:00Z",
+      "details": {
+        "confirmed": 69,
+        "deaths": 3,
+        "recovered": 928,
+        "vaccinated": 0,
+        "tested": 1680
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d470d",
+      "date": "2020-04-30T00:00:00Z",
+      "details": {
+        "confirmed": 102,
+        "deaths": 2,
+        "recovered": 984,
+        "vaccinated": 0,
+        "tested": 1911
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d470e",
+      "date": "2020-05-01T00:00:00Z",
+      "details": {
+        "confirmed": 146,
+        "deaths": 1,
+        "recovered": 1083,
+        "vaccinated": 0,
+        "tested": 2165
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d470f",
+      "date": "2020-05-02T00:00:00Z",
+      "details": {
+        "confirmed": 160,
+        "deaths": 2,
+        "recovered": 1256,
+        "vaccinated": 0,
+        "tested": 2361
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d4710",
+      "date": "2020-05-03T00:00:00Z",
+      "details": {
+        "confirmed": 174,
+        "deaths": 1,
+        "recovered": 1438,
+        "vaccinated": 0,
+        "tested": 2745
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d4711",
+      "date": "2020-05-04T00:00:00Z",
+      "details": {
+        "confirmed": 150,
+        "deaths": 5,
+        "recovered": 1653,
+        "vaccinated": 0,
+        "tested": 3190
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d4712",
+      "date": "2020-05-05T00:00:00Z",
+      "details": {
+        "confirmed": 166,
+        "deaths": 2,
+        "recovered": 1838,
+        "vaccinated": 0,
+        "tested": 4268
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d4713",
+      "date": "2020-05-06T00:00:00Z",
+      "details": {
+        "confirmed": 189,
+        "deaths": 2,
+        "recovered": 2017,
+        "vaccinated": 0,
+        "tested": 3388
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d4714",
+      "date": "2020-05-07T00:00:00Z",
+      "details": {
+        "confirmed": 140,
+        "deaths": 0,
+        "recovered": 2179,
+        "vaccinated": 0,
+        "tested": 3534
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d4715",
+      "date": "2020-05-08T00:00:00Z",
+      "details": {
+        "confirmed": 163,
+        "deaths": 3,
+        "recovered": 2324,
+        "vaccinated": 0,
+        "tested": 3379
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d4716",
+      "date": "2020-05-09T00:00:00Z",
+      "details": {
+        "confirmed": 199,
+        "deaths": 0,
+        "recovered": 2461,
+        "vaccinated": 0,
+        "tested": 3188
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d4717",
+      "date": "2020-05-10T00:00:00Z",
+      "details": {
+        "confirmed": 153,
+        "deaths": 2,
+        "recovered": 2554,
+        "vaccinated": 0,
+        "tested": 2865
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d4718",
+      "date": "2020-05-11T00:00:00Z",
+      "details": {
+        "confirmed": 218,
+        "deaths": 0,
+        "recovered": 2811,
+        "vaccinated": 0,
+        "tested": 3056
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d4719",
+      "date": "2020-05-12T00:00:00Z",
+      "details": {
+        "confirmed": 137,
+        "deaths": 0,
+        "recovered": 2991,
+        "vaccinated": 0,
+        "tested": 2835
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d471a",
+      "date": "2020-05-13T00:00:00Z",
+      "details": {
+        "confirmed": 94,
+        "deaths": 0,
+        "recovered": 3131,
+        "vaccinated": 0,
+        "tested": 4055
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d471b",
+      "date": "2020-05-14T00:00:00Z",
+      "details": {
+        "confirmed": 95,
+        "deaths": 2,
+        "recovered": 3310,
+        "vaccinated": 0,
+        "tested": 2052
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d471c",
+      "date": "2020-05-15T00:00:00Z",
+      "details": {
+        "confirmed": 45,
+        "deaths": 0,
+        "recovered": 3400,
+        "vaccinated": 0,
+        "tested": 3694
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d471d",
+      "date": "2020-05-16T00:00:00Z",
+      "details": {
+        "confirmed": 89,
+        "deaths": 2,
+        "recovered": 3487,
+        "vaccinated": 0,
+        "tested": 3388
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d471e",
+      "date": "2020-05-17T00:00:00Z",
+      "details": {
+        "confirmed": 129,
+        "deaths": 0,
+        "recovered": 3660,
+        "vaccinated": 0,
+        "tested": 4953
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d471f",
+      "date": "2020-05-18T00:00:00Z",
+      "details": {
+        "confirmed": 82,
+        "deaths": 0,
+        "recovered": 3758,
+        "vaccinated": 0,
+        "tested": 5579
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d4720",
+      "date": "2020-05-19T00:00:00Z",
+      "details": {
+        "confirmed": 71,
+        "deaths": 1,
+        "recovered": 3901,
+        "vaccinated": 0,
+        "tested": 4831
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d4721",
+      "date": "2020-05-20T00:00:00Z",
+      "details": {
+        "confirmed": 110,
+        "deaths": 1,
+        "recovered": 4098,
+        "vaccinated": 0,
+        "tested": 5637
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d4722",
+      "date": "2020-05-21T00:00:00Z",
+      "details": {
+        "confirmed": 78,
+        "deaths": 2,
+        "recovered": 4280,
+        "vaccinated": 0,
+        "tested": 6993
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d4723",
+      "date": "2020-05-22T00:00:00Z",
+      "details": {
+        "confirmed": 121,
+        "deaths": 1,
+        "recovered": 4377,
+        "vaccinated": 0,
+        "tested": 10405
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d4724",
+      "date": "2020-05-23T00:00:00Z",
+      "details": {
+        "confirmed": 74,
+        "deaths": 1,
+        "recovered": 4638,
+        "vaccinated": 0,
+        "tested": 10159
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d4725",
+      "date": "2020-05-24T00:00:00Z",
+      "details": {
+        "confirmed": 27,
+        "deaths": 1,
+        "recovered": 4703,
+        "vaccinated": 0,
+        "tested": 9321
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d4726",
+      "date": "2020-05-25T00:00:00Z",
+      "details": {
+        "confirmed": 99,
+        "deaths": 1,
+        "recovered": 4774,
+        "vaccinated": 0,
+        "tested": 9321
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d4727",
+      "date": "2020-05-26T00:00:00Z",
+      "details": {
+        "confirmed": 45,
+        "deaths": 2,
+        "recovered": 4881,
+        "vaccinated": 0,
+        "tested": 9162
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d4728",
+      "date": "2020-05-27T00:00:00Z",
+      "details": {
+        "confirmed": 24,
+        "deaths": 0,
+        "recovered": 4978,
+        "vaccinated": 0,
+        "tested": 9348
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d4729",
+      "date": "2020-05-28T00:00:00Z",
+      "details": {
+        "confirmed": 42,
+        "deaths": 0,
+        "recovered": 5195,
+        "vaccinated": 0,
+        "tested": 9476
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d472a",
+      "date": "2020-05-29T00:00:00Z",
+      "details": {
+        "confirmed": 71,
+        "deaths": 0,
+        "recovered": 5271,
+        "vaccinated": 0,
+        "tested": 9872
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d472b",
+      "date": "2020-05-30T00:00:00Z",
+      "details": {
+        "confirmed": 66,
+        "deaths": 2,
+        "recovered": 5401,
+        "vaccinated": 0,
+        "tested": 9937
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d472c",
+      "date": "2020-05-31T00:00:00Z",
+      "details": {
+        "confirmed": 27,
+        "deaths": 1,
+        "recovered": 5459,
+        "vaccinated": 0,
+        "tested": 9141
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d472d",
+      "date": "2020-05-31T23:00:00Z",
+      "details": {
+        "confirmed": 26,
+        "deaths": 0,
+        "recovered": 5893,
+        "vaccinated": 0,
+        "tested": 12415
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d472e",
+      "date": "2020-06-01T23:00:00Z",
+      "details": {
+        "confirmed": 33,
+        "deaths": 1,
+        "recovered": 6410,
+        "vaccinated": 0,
+        "tested": 13097
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d472f",
+      "date": "2020-06-02T23:00:00Z",
+      "details": {
+        "confirmed": 56,
+        "deaths": 0,
+        "recovered": 6866,
+        "vaccinated": 0,
+        "tested": 13173
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d4730",
+      "date": "2020-06-03T23:00:00Z",
+      "details": {
+        "confirmed": 81,
+        "deaths": 2,
+        "recovered": 7195,
+        "vaccinated": 0,
+        "tested": 13186
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d4731",
+      "date": "2020-06-04T23:00:00Z",
+      "details": {
+        "confirmed": 68,
+        "deaths": 0,
+        "recovered": 7268,
+        "vaccinated": 0,
+        "tested": 14339
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d4732",
+      "date": "2020-06-05T23:00:00Z",
+      "details": {
+        "confirmed": 80,
+        "deaths": 0,
+        "recovered": 7315,
+        "vaccinated": 0,
+        "tested": 14108
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d4733",
+      "date": "2020-06-06T23:00:00Z",
+      "details": {
+        "confirmed": 73,
+        "deaths": 0,
+        "recovered": 7364,
+        "vaccinated": 0,
+        "tested": 16496
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d4734",
+      "date": "2020-06-07T23:00:00Z",
+      "details": {
+        "confirmed": 78,
+        "deaths": 0,
+        "recovered": 7408,
+        "vaccinated": 0,
+        "tested": 16750
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d4735",
+      "date": "2020-06-08T23:00:00Z",
+      "details": {
+        "confirmed": 135,
+        "deaths": 2,
+        "recovered": 7493,
+        "vaccinated": 0,
+        "tested": 16868
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d4736",
+      "date": "2020-06-09T23:00:00Z",
+      "details": {
+        "confirmed": 71,
+        "deaths": 1,
+        "recovered": 7565,
+        "vaccinated": 0,
+        "tested": 16480
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d4737",
+      "date": "2020-06-10T23:00:00Z",
+      "details": {
+        "confirmed": 29,
+        "deaths": 0,
+        "recovered": 7583,
+        "vaccinated": 0,
+        "tested": 16540
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d4738",
+      "date": "2020-06-11T23:00:00Z",
+      "details": {
+        "confirmed": 73,
+        "deaths": 1,
+        "recovered": 7618,
+        "vaccinated": 0,
+        "tested": 16551
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d4739",
+      "date": "2020-06-12T23:00:00Z",
+      "details": {
+        "confirmed": 82,
+        "deaths": 0,
+        "recovered": 7696,
+        "vaccinated": 0,
+        "tested": 16756
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d473a",
+      "date": "2020-06-13T23:00:00Z",
+      "details": {
+        "confirmed": 101,
+        "deaths": 0,
+        "recovered": 7765,
+        "vaccinated": 0,
+        "tested": 16622
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d473b",
+      "date": "2020-06-14T23:00:00Z",
+      "details": {
+        "confirmed": 92,
+        "deaths": 0,
+        "recovered": 7828,
+        "vaccinated": 0,
+        "tested": 16752
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d473c",
+      "date": "2020-06-15T23:00:00Z",
+      "details": {
+        "confirmed": 46,
+        "deaths": 0,
+        "recovered": 7937,
+        "vaccinated": 0,
+        "tested": 16496
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d473d",
+      "date": "2020-06-16T23:00:00Z",
+      "details": {
+        "confirmed": 66,
+        "deaths": 1,
+        "recovered": 7993,
+        "vaccinated": 0,
+        "tested": 15968
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d473e",
+      "date": "2020-06-17T23:00:00Z",
+      "details": {
+        "confirmed": 77,
+        "deaths": 0,
+        "recovered": 8041,
+        "vaccinated": 0,
+        "tested": 17211
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d473f",
+      "date": "2020-06-18T23:00:00Z",
+      "details": {
+        "confirmed": 539,
+        "deaths": 0,
+        "recovered": 8117,
+        "vaccinated": 0,
+        "tested": 16689
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d4740",
+      "date": "2020-06-19T23:00:00Z",
+      "details": {
+        "confirmed": 226,
+        "deaths": 0,
+        "recovered": 8223,
+        "vaccinated": 0,
+        "tested": 16530
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d4741",
+      "date": "2020-06-20T23:00:00Z",
+      "details": {
+        "confirmed": 138,
+        "deaths": 1,
+        "recovered": 8284,
+        "vaccinated": 0,
+        "tested": 16025
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d4742",
+      "date": "2020-06-21T23:00:00Z",
+      "details": {
+        "confirmed": 195,
+        "deaths": 0,
+        "recovered": 8366,
+        "vaccinated": 0,
+        "tested": 18504
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d4743",
+      "date": "2020-06-22T23:00:00Z",
+      "details": {
+        "confirmed": 172,
+        "deaths": 0,
+        "recovered": 8407,
+        "vaccinated": 0,
+        "tested": 18481
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d4744",
+      "date": "2020-06-23T23:00:00Z",
+      "details": {
+        "confirmed": 563,
+        "deaths": 2,
+        "recovered": 8468,
+        "vaccinated": 0,
+        "tested": 16581
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d4745",
+      "date": "2020-06-24T23:00:00Z",
+      "details": {
+        "confirmed": 431,
+        "deaths": 1,
+        "recovered": 8500,
+        "vaccinated": 0,
+        "tested": 0
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d4746",
+      "date": "2020-06-25T23:00:00Z",
+      "details": {
+        "confirmed": 295,
+        "deaths": 1,
+        "recovered": 8656,
+        "vaccinated": 0,
+        "tested": 0
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d4747",
+      "date": "2020-06-26T23:00:00Z",
+      "details": {
+        "confirmed": 244,
+        "deaths": 2,
+        "recovered": 8723,
+        "vaccinated": 0,
+        "tested": 13059
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d4748",
+      "date": "2020-06-27T23:00:00Z",
+      "details": {
+        "confirmed": 175,
+        "deaths": 1,
+        "recovered": 8740,
+        "vaccinated": 0,
+        "tested": 12701
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d4749",
+      "date": "2020-06-28T23:00:00Z",
+      "details": {
+        "confirmed": 238,
+        "deaths": 4,
+        "recovered": 8833,
+        "vaccinated": 0,
+        "tested": 16619
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d474a",
+      "date": "2020-06-29T23:00:00Z",
+      "details": {
+        "confirmed": 243,
+        "deaths": 3,
+        "recovered": 8920,
+        "vaccinated": 0,
+        "tested": 18377
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d474b",
+      "date": "2020-06-30T23:00:00Z",
+      "details": {
+        "confirmed": 103,
+        "deaths": 0,
+        "recovered": 9026,
+        "vaccinated": 0,
+        "tested": 16937
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d474c",
+      "date": "2020-07-01T23:00:00Z",
+      "details": {
+        "confirmed": 333,
+        "deaths": 1,
+        "recovered": 9090,
+        "vaccinated": 0,
+        "tested": 17725
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d474d",
+      "date": "2020-07-02T23:00:00Z",
+      "details": {
+        "confirmed": 319,
+        "deaths": 1,
+        "recovered": 9160,
+        "vaccinated": 0,
+        "tested": 16641
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d474e",
+      "date": "2020-07-03T23:00:00Z",
+      "details": {
+        "confirmed": 534,
+        "deaths": 2,
+        "recovered": 9329,
+        "vaccinated": 0,
+        "tested": 15955
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d474f",
+      "date": "2020-07-04T23:00:00Z",
+      "details": {
+        "confirmed": 393,
+        "deaths": 3,
+        "recovered": 9725,
+        "vaccinated": 0,
+        "tested": 17131
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d4750",
+      "date": "2020-07-05T23:00:00Z",
+      "details": {
+        "confirmed": 164,
+        "deaths": 2,
+        "recovered": 10173,
+        "vaccinated": 0,
+        "tested": 18059
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d4751",
+      "date": "2020-07-06T23:00:00Z",
+      "details": {
+        "confirmed": 228,
+        "deaths": 3,
+        "recovered": 10639,
+        "vaccinated": 0,
+        "tested": 17690
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d4752",
+      "date": "2020-07-07T23:00:00Z",
+      "details": {
+        "confirmed": 164,
+        "deaths": 2,
+        "recovered": 11316,
+        "vaccinated": 0,
+        "tested": 17795
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d4753",
+      "date": "2020-07-08T23:00:00Z",
+      "details": {
+        "confirmed": 308,
+        "deaths": 0,
+        "recovered": 11447,
+        "vaccinated": 0,
+        "tested": 16140
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d4754",
+      "date": "2020-07-09T23:00:00Z",
+      "details": {
+        "confirmed": 249,
+        "deaths": 1,
+        "recovered": 11827,
+        "vaccinated": 0,
+        "tested": 13833
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d4755",
+      "date": "2020-07-10T23:00:00Z",
+      "details": {
+        "confirmed": 214,
+        "deaths": 2,
+        "recovered": 12065,
+        "vaccinated": 0,
+        "tested": 15497
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d4756",
+      "date": "2020-07-11T23:00:00Z",
+      "details": {
+        "confirmed": 203,
+        "deaths": 5,
+        "recovered": 12283,
+        "vaccinated": 0,
+        "tested": 14032
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d4757",
+      "date": "2020-07-12T23:00:00Z",
+      "details": {
+        "confirmed": 191,
+        "deaths": 5,
+        "recovered": 12934,
+        "vaccinated": 0,
+        "tested": 18012
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d4758",
+      "date": "2020-07-13T23:00:00Z",
+      "details": {
+        "confirmed": 161,
+        "deaths": 2,
+        "recovered": 13442,
+        "vaccinated": 0,
+        "tested": 18502
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d4759",
+      "date": "2020-07-14T23:00:00Z",
+      "details": {
+        "confirmed": 165,
+        "deaths": 2,
+        "recovered": 13821,
+        "vaccinated": 0,
+        "tested": 18908
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d475a",
+      "date": "2020-07-15T23:00:00Z",
+      "details": {
+        "confirmed": 283,
+        "deaths": 4,
+        "recovered": 13965,
+        "vaccinated": 0,
+        "tested": 19667
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d475b",
+      "date": "2020-07-16T23:00:00Z",
+      "details": {
+        "confirmed": 181,
+        "deaths": 1,
+        "recovered": 14360,
+        "vaccinated": 0,
+        "tested": 19689
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d475c",
+      "date": "2020-07-17T23:00:00Z",
+      "details": {
+        "confirmed": 289,
+        "deaths": 5,
+        "recovered": 14620,
+        "vaccinated": 0,
+        "tested": 17110
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d475d",
+      "date": "2020-07-18T23:00:00Z",
+      "details": {
+        "confirmed": 221,
+        "deaths": 4,
+        "recovered": 14921,
+        "vaccinated": 0,
+        "tested": 18812
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d475e",
+      "date": "2020-07-19T23:00:00Z",
+      "details": {
+        "confirmed": 326,
+        "deaths": 3,
+        "recovered": 15132,
+        "vaccinated": 0,
+        "tested": 18447
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d475f",
+      "date": "2020-07-20T23:00:00Z",
+      "details": {
+        "confirmed": 180,
+        "deaths": 4,
+        "recovered": 15389,
+        "vaccinated": 0,
+        "tested": 19033
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d4760",
+      "date": "2020-07-21T23:00:00Z",
+      "details": {
+        "confirmed": 220,
+        "deaths": 5,
+        "recovered": 15636,
+        "vaccinated": 0,
+        "tested": 19027
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d4761",
+      "date": "2020-07-22T23:00:00Z",
+      "details": {
+        "confirmed": 302,
+        "deaths": 7,
+        "recovered": 15872,
+        "vaccinated": 0,
+        "tested": 19657
+      }
+    },
+    {
+      "id": "60c5de118b6b7821c25d4762",
+      "date": "2020-07-23T23:00:00Z",
+      "details": {
+        "confirmed": 570,
+        "deaths": 7,
+        "recovered": 16100,
+        "vaccinated": 0,
+        "tested": 19781
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d4763",
+      "date": "2020-07-24T23:00:00Z",
+      "details": {
+        "confirmed": 811,
+        "deaths": 6,
+        "recovered": 16282,
+        "vaccinated": 0,
+        "tested": 20942
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d4764",
+      "date": "2020-07-25T23:00:00Z",
+      "details": {
+        "confirmed": 633,
+        "deaths": 8,
+        "recovered": 16438,
+        "vaccinated": 0,
+        "tested": 20960
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d4765",
+      "date": "2020-07-26T23:00:00Z",
+      "details": {
+        "confirmed": 609,
+        "deaths": 3,
+        "recovered": 16553,
+        "vaccinated": 0,
+        "tested": 20940
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d4766",
+      "date": "2020-07-27T23:00:00Z",
+      "details": {
+        "confirmed": 500,
+        "deaths": 11,
+        "recovered": 17066,
+        "vaccinated": 0,
+        "tested": 20688
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d4767",
+      "date": "2020-07-28T23:00:00Z",
+      "details": {
+        "confirmed": 826,
+        "deaths": 7,
+        "recovered": 17125,
+        "vaccinated": 0,
+        "tested": 21234
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d4768",
+      "date": "2020-07-29T23:00:00Z",
+      "details": {
+        "confirmed": 1046,
+        "deaths": 12,
+        "recovered": 17311,
+        "vaccinated": 0,
+        "tested": 21160
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d4769",
+      "date": "2020-07-30T23:00:00Z",
+      "details": {
+        "confirmed": 1063,
+        "deaths": 7,
+        "recovered": 17658,
+        "vaccinated": 0,
+        "tested": 21170
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d476a",
+      "date": "2020-07-31T23:00:00Z",
+      "details": {
+        "confirmed": 693,
+        "deaths": 14,
+        "recovered": 17960,
+        "vaccinated": 0,
+        "tested": 21574
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d476b",
+      "date": "2020-08-01T23:00:00Z",
+      "details": {
+        "confirmed": 522,
+        "deaths": 15,
+        "recovered": 18435,
+        "vaccinated": 0,
+        "tested": 21255
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d476c",
+      "date": "2020-08-02T23:00:00Z",
+      "details": {
+        "confirmed": 659,
+        "deaths": 19,
+        "recovered": 18968,
+        "vaccinated": 0,
+        "tested": 21667
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d476d",
+      "date": "2020-08-03T23:00:00Z",
+      "details": {
+        "confirmed": 1021,
+        "deaths": 16,
+        "recovered": 19629,
+        "vaccinated": 0,
+        "tested": 22128
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d476e",
+      "date": "2020-08-04T23:00:00Z",
+      "details": {
+        "confirmed": 1283,
+        "deaths": 18,
+        "recovered": 19994,
+        "vaccinated": 0,
+        "tested": 22561
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d476f",
+      "date": "2020-08-05T23:00:00Z",
+      "details": {
+        "confirmed": 1144,
+        "deaths": 14,
+        "recovered": 20553,
+        "vaccinated": 0,
+        "tested": 22266
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d4770",
+      "date": "2020-08-06T23:00:00Z",
+      "details": {
+        "confirmed": 1018,
+        "deaths": 12,
+        "recovered": 21548,
+        "vaccinated": 0,
+        "tested": 21343
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d4771",
+      "date": "2020-08-07T23:00:00Z",
+      "details": {
+        "confirmed": 1345,
+        "deaths": 19,
+        "recovered": 22190,
+        "vaccinated": 0,
+        "tested": 22476
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d4772",
+      "date": "2020-08-08T23:00:00Z",
+      "details": {
+        "confirmed": 1230,
+        "deaths": 18,
+        "recovered": 23347,
+        "vaccinated": 0,
+        "tested": 22333
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d4773",
+      "date": "2020-08-09T23:00:00Z",
+      "details": {
+        "confirmed": 826,
+        "deaths": 18,
+        "recovered": 24524,
+        "vaccinated": 0,
+        "tested": 22127
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d4774",
+      "date": "2020-08-10T23:00:00Z",
+      "details": {
+        "confirmed": 1132,
+        "deaths": 17,
+        "recovered": 25385,
+        "vaccinated": 0,
+        "tested": 22001
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d4775",
+      "date": "2020-08-11T23:00:00Z",
+      "details": {
+        "confirmed": 1499,
+        "deaths": 23,
+        "recovered": 25677,
+        "vaccinated": 0,
+        "tested": 22306
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d4776",
+      "date": "2020-08-12T23:00:00Z",
+      "details": {
+        "confirmed": 1241,
+        "deaths": 28,
+        "recovered": 26687,
+        "vaccinated": 0,
+        "tested": 22118
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d4777",
+      "date": "2020-08-13T23:00:00Z",
+      "details": {
+        "confirmed": 1306,
+        "deaths": 27,
+        "recovered": 27644,
+        "vaccinated": 0,
+        "tested": 22007
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d4778",
+      "date": "2020-08-14T23:00:00Z",
+      "details": {
+        "confirmed": 1776,
+        "deaths": 21,
+        "recovered": 28566,
+        "vaccinated": 0,
+        "tested": 22707
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d4779",
+      "date": "2020-08-15T23:00:00Z",
+      "details": {
+        "confirmed": 1472,
+        "deaths": 26,
+        "recovered": 29344,
+        "vaccinated": 0,
+        "tested": 22379
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d477a",
+      "date": "2020-08-16T23:00:00Z",
+      "details": {
+        "confirmed": 1069,
+        "deaths": 23,
+        "recovered": 29941,
+        "vaccinated": 0,
+        "tested": 21197
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d477b",
+      "date": "2020-08-17T23:00:00Z",
+      "details": {
+        "confirmed": 1245,
+        "deaths": 33,
+        "recovered": 31002,
+        "vaccinated": 0,
+        "tested": 21918
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d477c",
+      "date": "2020-08-18T23:00:00Z",
+      "details": {
+        "confirmed": 1510,
+        "deaths": 29,
+        "recovered": 31576,
+        "vaccinated": 0,
+        "tested": 21841
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d477d",
+      "date": "2020-08-19T23:00:00Z",
+      "details": {
+        "confirmed": 1325,
+        "deaths": 32,
+        "recovered": 32806,
+        "vaccinated": 0,
+        "tested": 21836
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d477e",
+      "date": "2020-08-20T23:00:00Z",
+      "details": {
+        "confirmed": 1609,
+        "deaths": 42,
+        "recovered": 34199,
+        "vaccinated": 0,
+        "tested": 22178
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d477f",
+      "date": "2020-08-21T23:00:00Z",
+      "details": {
+        "confirmed": 1565,
+        "deaths": 41,
+        "recovered": 35040,
+        "vaccinated": 0,
+        "tested": 22393
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d4780",
+      "date": "2020-08-22T23:00:00Z",
+      "details": {
+        "confirmed": 1537,
+        "deaths": 30,
+        "recovered": 36343,
+        "vaccinated": 0,
+        "tested": 21894
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d4781",
+      "date": "2020-08-23T23:00:00Z",
+      "details": {
+        "confirmed": 903,
+        "deaths": 32,
+        "recovered": 37478,
+        "vaccinated": 0,
+        "tested": 21110
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d4782",
+      "date": "2020-08-24T23:00:00Z",
+      "details": {
+        "confirmed": 1276,
+        "deaths": 35,
+        "recovered": 38293,
+        "vaccinated": 0,
+        "tested": 22190
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d4783",
+      "date": "2020-08-25T23:00:00Z",
+      "details": {
+        "confirmed": 1336,
+        "deaths": 29,
+        "recovered": 40586,
+        "vaccinated": 0,
+        "tested": 22081
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d4784",
+      "date": "2020-08-26T23:00:00Z",
+      "details": {
+        "confirmed": 1221,
+        "deaths": 27,
+        "recovered": 41901,
+        "vaccinated": 0,
+        "tested": 22009
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d4785",
+      "date": "2020-08-27T23:00:00Z",
+      "details": {
+        "confirmed": 1404,
+        "deaths": 41,
+        "recovered": 43049,
+        "vaccinated": 0,
+        "tested": 22285
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d4786",
+      "date": "2020-08-28T23:00:00Z",
+      "details": {
+        "confirmed": 1567,
+        "deaths": 26,
+        "recovered": 44618,
+        "vaccinated": 0,
+        "tested": 22419
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d4787",
+      "date": "2020-08-29T23:00:00Z",
+      "details": {
+        "confirmed": 1343,
+        "deaths": 33,
+        "recovered": 46355,
+        "vaccinated": 0,
+        "tested": 22001
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d4788",
+      "date": "2020-08-30T23:00:00Z",
+      "details": {
+        "confirmed": 1191,
+        "deaths": 30,
+        "recovered": 47595,
+        "vaccinated": 0,
+        "tested": 21369
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d4789",
+      "date": "2020-08-31T23:00:00Z",
+      "details": {
+        "confirmed": 1191,
+        "deaths": 43,
+        "recovered": 48922,
+        "vaccinated": 0,
+        "tested": 22082
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d478a",
+      "date": "2020-09-01T23:00:00Z",
+      "details": {
+        "confirmed": 1672,
+        "deaths": 32,
+        "recovered": 50357,
+        "vaccinated": 0,
+        "tested": 22424
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d478b",
+      "date": "2020-09-02T23:00:00Z",
+      "details": {
+        "confirmed": 1402,
+        "deaths": 37,
+        "recovered": 51223,
+        "vaccinated": 0,
+        "tested": 22284
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d478c",
+      "date": "2020-09-03T23:00:00Z",
+      "details": {
+        "confirmed": 1750,
+        "deaths": 39,
+        "recovered": 52483,
+        "vaccinated": 0,
+        "tested": 22802
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d478d",
+      "date": "2020-09-04T23:00:00Z",
+      "details": {
+        "confirmed": 1555,
+        "deaths": 37,
+        "recovered": 53929,
+        "vaccinated": 0,
+        "tested": 22570
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d478e",
+      "date": "2020-09-05T23:00:00Z",
+      "details": {
+        "confirmed": 2234,
+        "deaths": 32,
+        "recovered": 55274,
+        "vaccinated": 0,
+        "tested": 23557
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d478f",
+      "date": "2020-09-06T23:00:00Z",
+      "details": {
+        "confirmed": 1386,
+        "deaths": 33,
+        "recovered": 56096,
+        "vaccinated": 0,
+        "tested": 22238
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d4790",
+      "date": "2020-09-07T23:00:00Z",
+      "details": {
+        "confirmed": 1941,
+        "deaths": 33,
+        "recovered": 57239,
+        "vaccinated": 0,
+        "tested": 23099
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d4791",
+      "date": "2020-09-08T23:00:00Z",
+      "details": {
+        "confirmed": 2157,
+        "deaths": 26,
+        "recovered": 59723,
+        "vaccinated": 0,
+        "tested": 22774
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d4792",
+      "date": "2020-09-09T23:00:00Z",
+      "details": {
+        "confirmed": 1889,
+        "deaths": 38,
+        "recovered": 61850,
+        "vaccinated": 0,
+        "tested": 22634
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d4793",
+      "date": "2020-09-10T23:00:00Z",
+      "details": {
+        "confirmed": 2430,
+        "deaths": 33,
+        "recovered": 64194,
+        "vaccinated": 0,
+        "tested": 23468
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d4794",
+      "date": "2020-09-11T23:00:00Z",
+      "details": {
+        "confirmed": 2238,
+        "deaths": 29,
+        "recovered": 65867,
+        "vaccinated": 0,
+        "tested": 23130
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d4795",
+      "date": "2020-09-12T23:00:00Z",
+      "details": {
+        "confirmed": 2251,
+        "deaths": 25,
+        "recovered": 67528,
+        "vaccinated": 0,
+        "tested": 22673
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d4796",
+      "date": "2020-09-13T23:00:00Z",
+      "details": {
+        "confirmed": 1517,
+        "deaths": 36,
+        "recovered": 68970,
+        "vaccinated": 0,
+        "tested": 21694
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d4797",
+      "date": "2020-09-14T23:00:00Z",
+      "details": {
+        "confirmed": 2121,
+        "deaths": 34,
+        "recovered": 71047,
+        "vaccinated": 0,
+        "tested": 22279
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d4798",
+      "date": "2020-09-15T23:00:00Z",
+      "details": {
+        "confirmed": 1692,
+        "deaths": 38,
+        "recovered": 72968,
+        "vaccinated": 0,
+        "tested": 21769
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d4799",
+      "date": "2020-09-16T23:00:00Z",
+      "details": {
+        "confirmed": 2488,
+        "deaths": 28,
+        "recovered": 74930,
+        "vaccinated": 0,
+        "tested": 0
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d479a",
+      "date": "2020-09-17T23:00:00Z",
+      "details": {
+        "confirmed": 2760,
+        "deaths": 41,
+        "recovered": 76690,
+        "vaccinated": 0,
+        "tested": 0
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d479b",
+      "date": "2020-09-18T23:00:00Z",
+      "details": {
+        "confirmed": 2552,
+        "deaths": 40,
+        "recovered": 79008,
+        "vaccinated": 0,
+        "tested": 23874
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d479c",
+      "date": "2020-09-19T23:00:00Z",
+      "details": {
+        "confirmed": 1927,
+        "deaths": 35,
+        "recovered": 80732,
+        "vaccinated": 0,
+        "tested": 22934
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d479d",
+      "date": "2020-09-20T23:00:00Z",
+      "details": {
+        "confirmed": 1376,
+        "deaths": 25,
+        "recovered": 84158,
+        "vaccinated": 0,
+        "tested": 21461
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d479e",
+      "date": "2020-09-21T23:00:00Z",
+      "details": {
+        "confirmed": 2227,
+        "deaths": 34,
+        "recovered": 85883,
+        "vaccinated": 0,
+        "tested": 23293
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d479f",
+      "date": "2020-09-22T23:00:00Z",
+      "details": {
+        "confirmed": 2397,
+        "deaths": 29,
+        "recovered": 88244,
+        "vaccinated": 0,
+        "tested": 23504
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d47a0",
+      "date": "2020-09-23T23:00:00Z",
+      "details": {
+        "confirmed": 2356,
+        "deaths": 38,
+        "recovered": 90186,
+        "vaccinated": 0,
+        "tested": 23778
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d47a1",
+      "date": "2020-09-24T23:00:00Z",
+      "details": {
+        "confirmed": 2423,
+        "deaths": 42,
+        "recovered": 91932,
+        "vaccinated": 0,
+        "tested": 24000
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d47a2",
+      "date": "2020-09-25T23:00:00Z",
+      "details": {
+        "confirmed": 2719,
+        "deaths": 43,
+        "recovered": 94150,
+        "vaccinated": 0,
+        "tested": 24246
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d47a3",
+      "date": "2020-09-26T23:00:00Z",
+      "details": {
+        "confirmed": 2444,
+        "deaths": 28,
+        "recovered": 95591,
+        "vaccinated": 0,
+        "tested": 23953
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d47a4",
+      "date": "2020-09-27T23:00:00Z",
+      "details": {
+        "confirmed": 1422,
+        "deaths": 44,
+        "recovered": 97468,
+        "vaccinated": 0,
+        "tested": 22307
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d47a5",
+      "date": "2020-09-28T23:00:00Z",
+      "details": {
+        "confirmed": 2076,
+        "deaths": 39,
+        "recovered": 100253,
+        "vaccinated": 0,
+        "tested": 22829
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d47a6",
+      "date": "2020-09-29T23:00:00Z",
+      "details": {
+        "confirmed": 2470,
+        "deaths": 42,
+        "recovered": 102715,
+        "vaccinated": 0,
+        "tested": 22828
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d47a7",
+      "date": "2020-09-30T23:00:00Z",
+      "details": {
+        "confirmed": 2391,
+        "deaths": 35,
+        "recovered": 104136,
+        "vaccinated": 0,
+        "tested": 22546
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d47a8",
+      "date": "2020-10-01T23:00:00Z",
+      "details": {
+        "confirmed": 2521,
+        "deaths": 34,
+        "recovered": 106044,
+        "vaccinated": 0,
+        "tested": 22598
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d47a9",
+      "date": "2020-10-02T23:00:00Z",
+      "details": {
+        "confirmed": 2663,
+        "deaths": 30,
+        "recovered": 108687,
+        "vaccinated": 0,
+        "tested": 22678
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d47aa",
+      "date": "2020-10-03T23:00:00Z",
+      "details": {
+        "confirmed": 2044,
+        "deaths": 37,
+        "recovered": 111036,
+        "vaccinated": 0,
+        "tested": 22067
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d47ab",
+      "date": "2020-10-04T23:00:00Z",
+      "details": {
+        "confirmed": 1423,
+        "deaths": 39,
+        "recovered": 113336,
+        "vaccinated": 0,
+        "tested": 20704
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d47ac",
+      "date": "2020-10-05T23:00:00Z",
+      "details": {
+        "confirmed": 2553,
+        "deaths": 41,
+        "recovered": 115354,
+        "vaccinated": 0,
+        "tested": 21975
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d47ad",
+      "date": "2020-10-06T23:00:00Z",
+      "details": {
+        "confirmed": 2776,
+        "deaths": 29,
+        "recovered": 118142,
+        "vaccinated": 0,
+        "tested": 24483
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d47ae",
+      "date": "2020-10-07T23:00:00Z",
+      "details": {
+        "confirmed": 2929,
+        "deaths": 47,
+        "recovered": 120275,
+        "vaccinated": 0,
+        "tested": 25126
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d47af",
+      "date": "2020-10-08T23:00:00Z",
+      "details": {
+        "confirmed": 3445,
+        "deaths": 44,
+        "recovered": 123022,
+        "vaccinated": 0,
+        "tested": 25162
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d47b0",
+      "date": "2020-10-09T23:00:00Z",
+      "details": {
+        "confirmed": 3443,
+        "deaths": 42,
+        "recovered": 124854,
+        "vaccinated": 0,
+        "tested": 25131
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d47b1",
+      "date": "2020-10-10T23:00:00Z",
+      "details": {
+        "confirmed": 2563,
+        "deaths": 33,
+        "recovered": 127407,
+        "vaccinated": 0,
+        "tested": 23718
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d47b2",
+      "date": "2020-10-11T23:00:00Z",
+      "details": {
+        "confirmed": 1357,
+        "deaths": 31,
+        "recovered": 129498,
+        "vaccinated": 0,
+        "tested": 20309
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d47b3",
+      "date": "2020-10-12T23:00:00Z",
+      "details": {
+        "confirmed": 3185,
+        "deaths": 49,
+        "recovered": 131462,
+        "vaccinated": 0,
+        "tested": 24200
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d47b4",
+      "date": "2020-10-13T23:00:00Z",
+      "details": {
+        "confirmed": 3387,
+        "deaths": 41,
+        "recovered": 133959,
+        "vaccinated": 0,
+        "tested": 24448
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d47b5",
+      "date": "2020-10-14T23:00:00Z",
+      "details": {
+        "confirmed": 3317,
+        "deaths": 46,
+        "recovered": 136036,
+        "vaccinated": 0,
+        "tested": 23428
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d47b6",
+      "date": "2020-10-15T23:00:00Z",
+      "details": {
+        "confirmed": 3498,
+        "deaths": 46,
+        "recovered": 138989,
+        "vaccinated": 0,
+        "tested": 23601
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d47b7",
+      "date": "2020-10-16T23:00:00Z",
+      "details": {
+        "confirmed": 3763,
+        "deaths": 60,
+        "recovered": 141381,
+        "vaccinated": 0,
+        "tested": 24000
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d47b8",
+      "date": "2020-10-17T23:00:00Z",
+      "details": {
+        "confirmed": 2721,
+        "deaths": 50,
+        "recovered": 143972,
+        "vaccinated": 0,
+        "tested": 22693
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d47b9",
+      "date": "2020-10-18T23:00:00Z",
+      "details": {
+        "confirmed": 2117,
+        "deaths": 48,
+        "recovered": 146421,
+        "vaccinated": 0,
+        "tested": 21038
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d47ba",
+      "date": "2020-10-19T23:00:00Z",
+      "details": {
+        "confirmed": 3254,
+        "deaths": 51,
+        "recovered": 148838,
+        "vaccinated": 0,
+        "tested": 23309
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d47bb",
+      "date": "2020-10-20T23:00:00Z",
+      "details": {
+        "confirmed": 3577,
+        "deaths": 52,
+        "recovered": 151634,
+        "vaccinated": 0,
+        "tested": 22902
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d47bc",
+      "date": "2020-10-21T23:00:00Z",
+      "details": {
+        "confirmed": 4151,
+        "deaths": 53,
+        "recovered": 154481,
+        "vaccinated": 0,
+        "tested": 23336
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d47bd",
+      "date": "2020-10-22T23:00:00Z",
+      "details": {
+        "confirmed": 3685,
+        "deaths": 73,
+        "recovered": 157175,
+        "vaccinated": 0,
+        "tested": 22705
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d47be",
+      "date": "2020-10-23T23:00:00Z",
+      "details": {
+        "confirmed": 4045,
+        "deaths": 50,
+        "recovered": 160372,
+        "vaccinated": 0,
+        "tested": 22778
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d47bf",
+      "date": "2020-10-24T23:00:00Z",
+      "details": {
+        "confirmed": 3020,
+        "deaths": 46,
+        "recovered": 163195,
+        "vaccinated": 0,
+        "tested": 21368
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d47c0",
+      "date": "2020-10-25T23:00:00Z",
+      "details": {
+        "confirmed": 2264,
+        "deaths": 72,
+        "recovered": 165922,
+        "vaccinated": 0,
+        "tested": 20361
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d47c1",
+      "date": "2020-10-26T23:00:00Z",
+      "details": {
+        "confirmed": 3988,
+        "deaths": 72,
+        "recovered": 168706,
+        "vaccinated": 0,
+        "tested": 22780
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d47c2",
+      "date": "2020-10-27T23:00:00Z",
+      "details": {
+        "confirmed": 3985,
+        "deaths": 61,
+        "recovered": 171591,
+        "vaccinated": 0,
+        "tested": 22086
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d47c3",
+      "date": "2020-10-28T23:00:00Z",
+      "details": {
+        "confirmed": 4320,
+        "deaths": 66,
+        "recovered": 174911,
+        "vaccinated": 0,
+        "tested": 22201
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d47c4",
+      "date": "2020-10-29T23:00:00Z",
+      "details": {
+        "confirmed": 3256,
+        "deaths": 53,
+        "recovered": 177925,
+        "vaccinated": 0,
+        "tested": 20278
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d47c5",
+      "date": "2020-10-30T23:00:00Z",
+      "details": {
+        "confirmed": 3790,
+        "deaths": 70,
+        "recovered": 181275,
+        "vaccinated": 0,
+        "tested": 21327
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d47c6",
+      "date": "2020-10-31T23:00:00Z",
+      "details": {
+        "confirmed": 3460,
+        "deaths": 67,
+        "recovered": 184313,
+        "vaccinated": 0,
+        "tested": 21222
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d47c7",
+      "date": "2020-11-01T23:00:00Z",
+      "details": {
+        "confirmed": 2526,
+        "deaths": 64,
+        "recovered": 187101,
+        "vaccinated": 0,
+        "tested": 19799
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d47c8",
+      "date": "2020-11-02T23:00:00Z",
+      "details": {
+        "confirmed": 4495,
+        "deaths": 74,
+        "recovered": 189909,
+        "vaccinated": 0,
+        "tested": 20871
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d47c9",
+      "date": "2020-11-03T23:00:00Z",
+      "details": {
+        "confirmed": 5745,
+        "deaths": 82,
+        "recovered": 193886,
+        "vaccinated": 0,
+        "tested": 21511
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d47ca",
+      "date": "2020-11-04T23:00:00Z",
+      "details": {
+        "confirmed": 5641,
+        "deaths": 77,
+        "recovered": 197215,
+        "vaccinated": 0,
+        "tested": 20807
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d47cb",
+      "date": "2020-11-05T23:00:00Z",
+      "details": {
+        "confirmed": 5398,
+        "deaths": 68,
+        "recovered": 200954,
+        "vaccinated": 0,
+        "tested": 20591
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d47cc",
+      "date": "2020-11-06T23:00:00Z",
+      "details": {
+        "confirmed": 5836,
+        "deaths": 70,
+        "recovered": 205556,
+        "vaccinated": 0,
+        "tested": 19993
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d47cd",
+      "date": "2020-11-07T23:00:00Z",
+      "details": {
+        "confirmed": 4596,
+        "deaths": 75,
+        "recovered": 209801,
+        "vaccinated": 0,
+        "tested": 19870
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d47ce",
+      "date": "2020-11-08T23:00:00Z",
+      "details": {
+        "confirmed": 3170,
+        "deaths": 84,
+        "recovered": 212905,
+        "vaccinated": 0,
+        "tested": 19103
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d47cf",
+      "date": "2020-11-09T23:00:00Z",
+      "details": {
+        "confirmed": 5214,
+        "deaths": 69,
+        "recovered": 216851,
+        "vaccinated": 0,
+        "tested": 20983
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d47d0",
+      "date": "2020-11-10T23:00:00Z",
+      "details": {
+        "confirmed": 5461,
+        "deaths": 81,
+        "recovered": 221743,
+        "vaccinated": 0,
+        "tested": 21727
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d47d1",
+      "date": "2020-11-11T23:00:00Z",
+      "details": {
+        "confirmed": 6195,
+        "deaths": 64,
+        "recovered": 226040,
+        "vaccinated": 0,
+        "tested": 23565
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d47d2",
+      "date": "2020-11-12T23:00:00Z",
+      "details": {
+        "confirmed": 5515,
+        "deaths": 61,
+        "recovered": 229160,
+        "vaccinated": 0,
+        "tested": 23704
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d47d3",
+      "date": "2020-11-13T23:00:00Z",
+      "details": {
+        "confirmed": 5875,
+        "deaths": 66,
+        "recovered": 234904,
+        "vaccinated": 0,
+        "tested": 23123
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d47d4",
+      "date": "2020-11-14T23:00:00Z",
+      "details": {
+        "confirmed": 4966,
+        "deaths": 82,
+        "recovered": 238598,
+        "vaccinated": 0,
+        "tested": 22811
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d47d5",
+      "date": "2020-11-15T23:00:00Z",
+      "details": {
+        "confirmed": 3012,
+        "deaths": 71,
+        "recovered": 243359,
+        "vaccinated": 0,
+        "tested": 18332
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d47d6",
+      "date": "2020-11-16T23:00:00Z",
+      "details": {
+        "confirmed": 5415,
+        "deaths": 82,
+        "recovered": 247594,
+        "vaccinated": 0,
+        "tested": 23563
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d47d7",
+      "date": "2020-11-17T23:00:00Z",
+      "details": {
+        "confirmed": 5391,
+        "deaths": 81,
+        "recovered": 253351,
+        "vaccinated": 0,
+        "tested": 22819
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d47d8",
+      "date": "2020-11-18T23:00:00Z",
+      "details": {
+        "confirmed": 4559,
+        "deaths": 77,
+        "recovered": 257992,
+        "vaccinated": 0,
+        "tested": 22490
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d47d9",
+      "date": "2020-11-19T23:00:00Z",
+      "details": {
+        "confirmed": 4706,
+        "deaths": 92,
+        "recovered": 262212,
+        "vaccinated": 0,
+        "tested": 20190
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d47da",
+      "date": "2020-11-20T23:00:00Z",
+      "details": {
+        "confirmed": 4702,
+        "deaths": 74,
+        "recovered": 266711,
+        "vaccinated": 0,
+        "tested": 22954
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d47db",
+      "date": "2020-11-21T23:00:00Z",
+      "details": {
+        "confirmed": 3979,
+        "deaths": 60,
+        "recovered": 270457,
+        "vaccinated": 0,
+        "tested": 20198
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d47dc",
+      "date": "2020-11-22T23:00:00Z",
+      "details": {
+        "confirmed": 2587,
+        "deaths": 80,
+        "recovered": 275158,
+        "vaccinated": 0,
+        "tested": 17566
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d47dd",
+      "date": "2020-11-23T23:00:00Z",
+      "details": {
+        "confirmed": 3999,
+        "deaths": 73,
+        "recovered": 279276,
+        "vaccinated": 0,
+        "tested": 19107
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d47de",
+      "date": "2020-11-24T23:00:00Z",
+      "details": {
+        "confirmed": 4979,
+        "deaths": 70,
+        "recovered": 284496,
+        "vaccinated": 0,
+        "tested": 20953
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d47df",
+      "date": "2020-11-25T23:00:00Z",
+      "details": {
+        "confirmed": 4178,
+        "deaths": 80,
+        "recovered": 289808,
+        "vaccinated": 0,
+        "tested": 21428
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d47e0",
+      "date": "2020-11-26T23:00:00Z",
+      "details": {
+        "confirmed": 4592,
+        "deaths": 70,
+        "recovered": 294036,
+        "vaccinated": 0,
+        "tested": 22017
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d47e1",
+      "date": "2020-11-27T23:00:00Z",
+      "details": {
+        "confirmed": 4412,
+        "deaths": 50,
+        "recovered": 298574,
+        "vaccinated": 0,
+        "tested": 22223
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d47e2",
+      "date": "2020-11-28T23:00:00Z",
+      "details": {
+        "confirmed": 4115,
+        "deaths": 50,
+        "recovered": 302314,
+        "vaccinated": 0,
+        "tested": 19180
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d47e3",
+      "date": "2020-11-29T23:00:00Z",
+      "details": {
+        "confirmed": 2533,
+        "deaths": 57,
+        "recovered": 305291,
+        "vaccinated": 0,
+        "tested": 14550
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d47e4",
+      "date": "2020-11-30T23:00:00Z",
+      "details": {
+        "confirmed": 3508,
+        "deaths": 69,
+        "recovered": 310193,
+        "vaccinated": 0,
+        "tested": 20885
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d47e5",
+      "date": "2020-12-01T23:00:00Z",
+      "details": {
+        "confirmed": 4346,
+        "deaths": 70,
+        "recovered": 314237,
+        "vaccinated": 0,
+        "tested": 21100
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d47e6",
+      "date": "2020-12-02T23:00:00Z",
+      "details": {
+        "confirmed": 4434,
+        "deaths": 78,
+        "recovered": 318987,
+        "vaccinated": 0,
+        "tested": 21106
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d47e7",
+      "date": "2020-12-03T23:00:00Z",
+      "details": {
+        "confirmed": 3996,
+        "deaths": 73,
+        "recovered": 323814,
+        "vaccinated": 0,
+        "tested": 21610
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d47e8",
+      "date": "2020-12-04T23:00:00Z",
+      "details": {
+        "confirmed": 4118,
+        "deaths": 48,
+        "recovered": 327693,
+        "vaccinated": 0,
+        "tested": 20150
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d47e9",
+      "date": "2020-12-05T23:00:00Z",
+      "details": {
+        "confirmed": 2919,
+        "deaths": 61,
+        "recovered": 331301,
+        "vaccinated": 0,
+        "tested": 15700
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d47ea",
+      "date": "2020-12-06T23:00:00Z",
+      "details": {
+        "confirmed": 1531,
+        "deaths": 75,
+        "recovered": 334269,
+        "vaccinated": 0,
+        "tested": 11985
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d47eb",
+      "date": "2020-12-07T23:00:00Z",
+      "details": {
+        "confirmed": 2900,
+        "deaths": 50,
+        "recovered": 337719,
+        "vaccinated": 0,
+        "tested": 17046
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d47ec",
+      "date": "2020-12-08T23:00:00Z",
+      "details": {
+        "confirmed": 4096,
+        "deaths": 57,
+        "recovered": 341685,
+        "vaccinated": 0,
+        "tested": 19181
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d47ed",
+      "date": "2020-12-09T23:00:00Z",
+      "details": {
+        "confirmed": 3345,
+        "deaths": 65,
+        "recovered": 345934,
+        "vaccinated": 0,
+        "tested": 19179
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d47ee",
+      "date": "2020-12-10T23:00:00Z",
+      "details": {
+        "confirmed": 3035,
+        "deaths": 50,
+        "recovered": 349821,
+        "vaccinated": 0,
+        "tested": 19227
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d47ef",
+      "date": "2020-12-11T23:00:00Z",
+      "details": {
+        "confirmed": 3033,
+        "deaths": 47,
+        "recovered": 353098,
+        "vaccinated": 0,
+        "tested": 18550
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d47f0",
+      "date": "2020-12-12T23:00:00Z",
+      "details": {
+        "confirmed": 2012,
+        "deaths": 35,
+        "recovered": 356023,
+        "vaccinated": 0,
+        "tested": 15141
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d47f1",
+      "date": "2020-12-13T23:00:00Z",
+      "details": {
+        "confirmed": 1217,
+        "deaths": 35,
+        "recovered": 359065,
+        "vaccinated": 0,
+        "tested": 9652
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d47f2",
+      "date": "2020-12-14T23:00:00Z",
+      "details": {
+        "confirmed": 2793,
+        "deaths": 52,
+        "recovered": 362911,
+        "vaccinated": 0,
+        "tested": 16495
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d47f3",
+      "date": "2020-12-15T23:00:00Z",
+      "details": {
+        "confirmed": 3351,
+        "deaths": 38,
+        "recovered": 366835,
+        "vaccinated": 0,
+        "tested": 16782
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d47f4",
+      "date": "2020-12-16T23:00:00Z",
+      "details": {
+        "confirmed": 2776,
+        "deaths": 55,
+        "recovered": 369998,
+        "vaccinated": 0,
+        "tested": 17010
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d47f5",
+      "date": "2020-12-17T23:00:00Z",
+      "details": {
+        "confirmed": 2647,
+        "deaths": 50,
+        "recovered": 372725,
+        "vaccinated": 0,
+        "tested": 15160
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d47f6",
+      "date": "2020-12-18T23:00:00Z",
+      "details": {
+        "confirmed": 2833,
+        "deaths": 55,
+        "recovered": 375623,
+        "vaccinated": 0,
+        "tested": 17781
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d47f7",
+      "date": "2020-12-19T23:00:00Z",
+      "details": {
+        "confirmed": 1899,
+        "deaths": 48,
+        "recovered": 378154,
+        "vaccinated": 0,
+        "tested": 13356
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d47f8",
+      "date": "2020-12-20T23:00:00Z",
+      "details": {
+        "confirmed": 877,
+        "deaths": 43,
+        "recovered": 380134,
+        "vaccinated": 0,
+        "tested": 7131
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d47f9",
+      "date": "2020-12-21T23:00:00Z",
+      "details": {
+        "confirmed": 2646,
+        "deaths": 30,
+        "recovered": 382925,
+        "vaccinated": 0,
+        "tested": 14862
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d47fa",
+      "date": "2020-12-22T23:00:00Z",
+      "details": {
+        "confirmed": 2566,
+        "deaths": 56,
+        "recovered": 385895,
+        "vaccinated": 0,
+        "tested": 15965
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d47fb",
+      "date": "2020-12-23T23:00:00Z",
+      "details": {
+        "confirmed": 2650,
+        "deaths": 44,
+        "recovered": 388728,
+        "vaccinated": 0,
+        "tested": 15500
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d47fc",
+      "date": "2020-12-24T23:00:00Z",
+      "details": {
+        "confirmed": 2329,
+        "deaths": 40,
+        "recovered": 391920,
+        "vaccinated": 0,
+        "tested": 15117
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d47fd",
+      "date": "2020-12-25T23:00:00Z",
+      "details": {
+        "confirmed": 2369,
+        "deaths": 34,
+        "recovered": 396095,
+        "vaccinated": 0,
+        "tested": 14850
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d47fe",
+      "date": "2020-12-26T23:00:00Z",
+      "details": {
+        "confirmed": 1517,
+        "deaths": 36,
+        "recovered": 398060,
+        "vaccinated": 0,
+        "tested": 10409
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d47ff",
+      "date": "2020-12-27T23:00:00Z",
+      "details": {
+        "confirmed": 950,
+        "deaths": 32,
+        "recovered": 399575,
+        "vaccinated": 0,
+        "tested": 9578
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d4800",
+      "date": "2020-12-28T23:00:00Z",
+      "details": {
+        "confirmed": 2160,
+        "deaths": 42,
+        "recovered": 401429,
+        "vaccinated": 0,
+        "tested": 17466
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d4801",
+      "date": "2020-12-29T23:00:00Z",
+      "details": {
+        "confirmed": 2143,
+        "deaths": 41,
+        "recovered": 405251,
+        "vaccinated": 0,
+        "tested": 17806
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d4802",
+      "date": "2020-12-30T23:00:00Z",
+      "details": {
+        "confirmed": 1861,
+        "deaths": 33,
+        "recovered": 407504,
+        "vaccinated": 0,
+        "tested": 17669
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d4803",
+      "date": "2020-12-31T23:00:00Z",
+      "details": {
+        "confirmed": 1777,
+        "deaths": 37,
+        "recovered": 409638,
+        "vaccinated": 0,
+        "tested": 16355
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d4804",
+      "date": "2021-01-01T23:00:00Z",
+      "details": {
+        "confirmed": 1171,
+        "deaths": 27,
+        "recovered": 412168,
+        "vaccinated": 0,
+        "tested": 13280
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d4805",
+      "date": "2021-01-02T23:00:00Z",
+      "details": {
+        "confirmed": 1005,
+        "deaths": 33,
+        "recovered": 413393,
+        "vaccinated": 0,
+        "tested": 12450
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d4806",
+      "date": "2021-01-03T23:00:00Z",
+      "details": {
+        "confirmed": 656,
+        "deaths": 53,
+        "recovered": 414972,
+        "vaccinated": 0,
+        "tested": 7858
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d4807",
+      "date": "2021-01-04T23:00:00Z",
+      "details": {
+        "confirmed": 1637,
+        "deaths": 43,
+        "recovered": 416708,
+        "vaccinated": 0,
+        "tested": 17131
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d4808",
+      "date": "2021-01-05T23:00:00Z",
+      "details": {
+        "confirmed": 1642,
+        "deaths": 37,
+        "recovered": 418744,
+        "vaccinated": 0,
+        "tested": 16953
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d4809",
+      "date": "2021-01-06T23:00:00Z",
+      "details": {
+        "confirmed": 1597,
+        "deaths": 27,
+        "recovered": 420569,
+        "vaccinated": 0,
+        "tested": 18378
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d480a",
+      "date": "2021-01-07T23:00:00Z",
+      "details": {
+        "confirmed": 1543,
+        "deaths": 40,
+        "recovered": 422072,
+        "vaccinated": 0,
+        "tested": 17544
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d480b",
+      "date": "2021-01-08T23:00:00Z",
+      "details": {
+        "confirmed": 1416,
+        "deaths": 24,
+        "recovered": 423541,
+        "vaccinated": 0,
+        "tested": 21574
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d480c",
+      "date": "2021-01-09T23:00:00Z",
+      "details": {
+        "confirmed": 895,
+        "deaths": 34,
+        "recovered": 424896,
+        "vaccinated": 0,
+        "tested": 15268
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d480d",
+      "date": "2021-01-10T23:00:00Z",
+      "details": {
+        "confirmed": 456,
+        "deaths": 24,
+        "recovered": 426006,
+        "vaccinated": 0,
+        "tested": 6883
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d480e",
+      "date": "2021-01-11T23:00:00Z",
+      "details": {
+        "confirmed": 801,
+        "deaths": 17,
+        "recovered": 427351,
+        "vaccinated": 0,
+        "tested": 10354
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d480f",
+      "date": "2021-01-12T23:00:00Z",
+      "details": {
+        "confirmed": 1266,
+        "deaths": 26,
+        "recovered": 429278,
+        "vaccinated": 0,
+        "tested": 18017
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d4810",
+      "date": "2021-01-13T23:00:00Z",
+      "details": {
+        "confirmed": 1279,
+        "deaths": 44,
+        "recovered": 431167,
+        "vaccinated": 0,
+        "tested": 19860
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d4811",
+      "date": "2021-01-14T23:00:00Z",
+      "details": {
+        "confirmed": 1291,
+        "deaths": 34,
+        "recovered": 432576,
+        "vaccinated": 0,
+        "tested": 20621
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d4812",
+      "date": "2021-01-15T23:00:00Z",
+      "details": {
+        "confirmed": 1240,
+        "deaths": 23,
+        "recovered": 433937,
+        "vaccinated": 0,
+        "tested": 19823
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d4813",
+      "date": "2021-01-16T23:00:00Z",
+      "details": {
+        "confirmed": 806,
+        "deaths": 31,
+        "recovered": 434925,
+        "vaccinated": 0,
+        "tested": 16372
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d4814",
+      "date": "2021-01-17T23:00:00Z",
+      "details": {
+        "confirmed": 473,
+        "deaths": 35,
+        "recovered": 435686,
+        "vaccinated": 0,
+        "tested": 7828
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d4815",
+      "date": "2021-01-18T23:00:00Z",
+      "details": {
+        "confirmed": 1246,
+        "deaths": 34,
+        "recovered": 436626,
+        "vaccinated": 0,
+        "tested": 15970
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d4816",
+      "date": "2021-01-19T23:00:00Z",
+      "details": {
+        "confirmed": 1152,
+        "deaths": 32,
+        "recovered": 437955,
+        "vaccinated": 0,
+        "tested": 15514
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d4817",
+      "date": "2021-01-20T23:00:00Z",
+      "details": {
+        "confirmed": 1164,
+        "deaths": 33,
+        "recovered": 439301,
+        "vaccinated": 0,
+        "tested": 15995
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d4818",
+      "date": "2021-01-21T23:00:00Z",
+      "details": {
+        "confirmed": 1138,
+        "deaths": 29,
+        "recovered": 440652,
+        "vaccinated": 0,
+        "tested": 15833
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d4819",
+      "date": "2021-01-22T23:00:00Z",
+      "details": {
+        "confirmed": 925,
+        "deaths": 23,
+        "recovered": 441693,
+        "vaccinated": 0,
+        "tested": 16330
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d481a",
+      "date": "2021-01-23T23:00:00Z",
+      "details": {
+        "confirmed": 520,
+        "deaths": 22,
+        "recovered": 442441,
+        "vaccinated": 0,
+        "tested": 9082
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d481b",
+      "date": "2021-01-24T23:00:00Z",
+      "details": {
+        "confirmed": 337,
+        "deaths": 22,
+        "recovered": 443472,
+        "vaccinated": 0,
+        "tested": 5779
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d481c",
+      "date": "2021-01-25T23:00:00Z",
+      "details": {
+        "confirmed": 867,
+        "deaths": 15,
+        "recovered": 444823,
+        "vaccinated": 0,
+        "tested": 12060
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d481d",
+      "date": "2021-01-26T23:00:00Z",
+      "details": {
+        "confirmed": 890,
+        "deaths": 20,
+        "recovered": 446181,
+        "vaccinated": 0,
+        "tested": 13477
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d481e",
+      "date": "2021-01-27T23:00:00Z",
+      "details": {
+        "confirmed": 756,
+        "deaths": 17,
+        "recovered": 447076,
+        "vaccinated": 0,
+        "tested": 641
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d481f",
+      "date": "2021-01-28T23:00:00Z",
+      "details": {
+        "confirmed": 851,
+        "deaths": 22,
+        "recovered": 447866,
+        "vaccinated": 0,
+        "tested": 14099
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d4820",
+      "date": "2021-01-29T23:00:00Z",
+      "details": {
+        "confirmed": 701,
+        "deaths": 13,
+        "recovered": 448628,
+        "vaccinated": 0,
+        "tested": 14415
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d4821",
+      "date": "2021-01-30T23:00:00Z",
+      "details": {
+        "confirmed": 466,
+        "deaths": 16,
+        "recovered": 449160,
+        "vaccinated": 36000,
+        "tested": 21740
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d4822",
+      "date": "2021-01-31T23:00:00Z",
+      "details": {
+        "confirmed": 281,
+        "deaths": 12,
+        "recovered": 450052,
+        "vaccinated": 74081,
+        "tested": 4970
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d4823",
+      "date": "2021-02-01T23:00:00Z",
+      "details": {
+        "confirmed": 835,
+        "deaths": 22,
+        "recovered": 450847,
+        "vaccinated": 57210,
+        "tested": 11202
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d4824",
+      "date": "2021-02-02T23:00:00Z",
+      "details": {
+        "confirmed": 774,
+        "deaths": 14,
+        "recovered": 451780,
+        "vaccinated": 51107,
+        "tested": 12651
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d4825",
+      "date": "2021-02-03T23:00:00Z",
+      "details": {
+        "confirmed": 620,
+        "deaths": 28,
+        "recovered": 452522,
+        "vaccinated": 43325,
+        "tested": 0
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d4826",
+      "date": "2021-02-04T23:00:00Z",
+      "details": {
+        "confirmed": 712,
+        "deaths": 17,
+        "recovered": 453302,
+        "vaccinated": 56512,
+        "tested": 0
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d4827",
+      "date": "2021-02-05T23:00:00Z",
+      "details": {
+        "confirmed": 587,
+        "deaths": 13,
+        "recovered": 453921,
+        "vaccinated": 55731,
+        "tested": 13593
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d4828",
+      "date": "2021-02-06T23:00:00Z",
+      "details": {
+        "confirmed": 389,
+        "deaths": 13,
+        "recovered": 454504,
+        "vaccinated": 0,
+        "tested": 8346
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d4829",
+      "date": "2021-02-07T23:00:00Z",
+      "details": {
+        "confirmed": 234,
+        "deaths": 14,
+        "recovered": 454997,
+        "vaccinated": 0,
+        "tested": 5120
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d482a",
+      "date": "2021-02-08T23:00:00Z",
+      "details": {
+        "confirmed": 536,
+        "deaths": 16,
+        "recovered": 456032,
+        "vaccinated": 65032,
+        "tested": 9378
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d482b",
+      "date": "2021-02-09T23:00:00Z",
+      "details": {
+        "confirmed": 564,
+        "deaths": 12,
+        "recovered": 456751,
+        "vaccinated": 130935,
+        "tested": 10840
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d482c",
+      "date": "2021-02-10T23:00:00Z",
+      "details": {
+        "confirmed": 471,
+        "deaths": 4,
+        "recovered": 457325,
+        "vaccinated": 109202,
+        "tested": 10456
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d482d",
+      "date": "2021-02-11T23:00:00Z",
+      "details": {
+        "confirmed": 496,
+        "deaths": 10,
+        "recovered": 457956,
+        "vaccinated": 256785,
+        "tested": 11125
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d482e",
+      "date": "2021-02-12T23:00:00Z",
+      "details": {
+        "confirmed": 479,
+        "deaths": 10,
+        "recovered": 458504,
+        "vaccinated": 276436,
+        "tested": 10958
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d482f",
+      "date": "2021-02-13T23:00:00Z",
+      "details": {
+        "confirmed": 339,
+        "deaths": 17,
+        "recovered": 458852,
+        "vaccinated": 0,
+        "tested": 7779
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d4830",
+      "date": "2021-02-14T23:00:00Z",
+      "details": {
+        "confirmed": 121,
+        "deaths": 14,
+        "recovered": 459549,
+        "vaccinated": 0,
+        "tested": 4367
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d4831",
+      "date": "2021-02-15T23:00:00Z",
+      "details": {
+        "confirmed": 476,
+        "deaths": 13,
+        "recovered": 460628,
+        "vaccinated": 197078,
+        "tested": 8950
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d4832",
+      "date": "2021-02-16T23:00:00Z",
+      "details": {
+        "confirmed": 508,
+        "deaths": 13,
+        "recovered": 461466,
+        "vaccinated": 176844,
+        "tested": 9601
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d4833",
+      "date": "2021-02-17T23:00:00Z",
+      "details": {
+        "confirmed": 477,
+        "deaths": 7,
+        "recovered": 462436,
+        "vaccinated": 152110,
+        "tested": 10589
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d4834",
+      "date": "2021-02-18T23:00:00Z",
+      "details": {
+        "confirmed": 448,
+        "deaths": 16,
+        "recovered": 463271,
+        "vaccinated": 129027,
+        "tested": 9886
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d4835",
+      "date": "2021-02-19T23:00:00Z",
+      "details": {
+        "confirmed": 444,
+        "deaths": 8,
+        "recovered": 464043,
+        "vaccinated": 99042,
+        "tested": 9972
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d4836",
+      "date": "2021-02-20T23:00:00Z",
+      "details": {
+        "confirmed": 207,
+        "deaths": 6,
+        "recovered": 464664,
+        "vaccinated": 0,
+        "tested": 7788
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d4837",
+      "date": "2021-02-21T23:00:00Z",
+      "details": {
+        "confirmed": 108,
+        "deaths": 5,
+        "recovered": 465297,
+        "vaccinated": 0,
+        "tested": 4890
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d4838",
+      "date": "2021-02-22T23:00:00Z",
+      "details": {
+        "confirmed": 446,
+        "deaths": 15,
+        "recovered": 466105,
+        "vaccinated": 91407,
+        "tested": 8507
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d4839",
+      "date": "2021-02-23T23:00:00Z",
+      "details": {
+        "confirmed": 419,
+        "deaths": 18,
+        "recovered": 466815,
+        "vaccinated": 281854,
+        "tested": 9351
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d483a",
+      "date": "2021-02-24T23:00:00Z",
+      "details": {
+        "confirmed": 386,
+        "deaths": 6,
+        "recovered": 467541,
+        "vaccinated": 255160,
+        "tested": 10478
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d483b",
+      "date": "2021-02-25T23:00:00Z",
+      "details": {
+        "confirmed": 480,
+        "deaths": 10,
+        "recovered": 468387,
+        "vaccinated": 220190,
+        "tested": 11509
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d483c",
+      "date": "2021-02-26T23:00:00Z",
+      "details": {
+        "confirmed": 416,
+        "deaths": 7,
+        "recovered": 468807,
+        "vaccinated": 173608,
+        "tested": 12003
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d483d",
+      "date": "2021-02-27T23:00:00Z",
+      "details": {
+        "confirmed": 244,
+        "deaths": 8,
+        "recovered": 469046,
+        "vaccinated": 0,
+        "tested": 0
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d483e",
+      "date": "2021-02-28T23:00:00Z",
+      "details": {
+        "confirmed": 112,
+        "deaths": 14,
+        "recovered": 469345,
+        "vaccinated": 0,
+        "tested": 0
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d483f",
+      "date": "2021-03-01T23:00:00Z",
+      "details": {
+        "confirmed": 393,
+        "deaths": 8,
+        "recovered": 469868,
+        "vaccinated": 149675,
+        "tested": 0
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d4840",
+      "date": "2021-03-02T23:00:00Z",
+      "details": {
+        "confirmed": 594,
+        "deaths": 8,
+        "recovered": 470425,
+        "vaccinated": 154537,
+        "tested": 10654
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d4841",
+      "date": "2021-03-03T23:00:00Z",
+      "details": {
+        "confirmed": 394,
+        "deaths": 16,
+        "recovered": 470933,
+        "vaccinated": 127267,
+        "tested": 13020
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d4842",
+      "date": "2021-03-04T23:00:00Z",
+      "details": {
+        "confirmed": 420,
+        "deaths": 4,
+        "recovered": 471410,
+        "vaccinated": 144500,
+        "tested": 12288
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d4843",
+      "date": "2021-03-05T23:00:00Z",
+      "details": {
+        "confirmed": 407,
+        "deaths": 3,
+        "recovered": 471919,
+        "vaccinated": 114928,
+        "tested": 11672
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d4844",
+      "date": "2021-03-06T23:00:00Z",
+      "details": {
+        "confirmed": 249,
+        "deaths": 6,
+        "recovered": 472240,
+        "vaccinated": 0,
+        "tested": 8624
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d4845",
+      "date": "2021-03-07T23:00:00Z",
+      "details": {
+        "confirmed": 102,
+        "deaths": 1,
+        "recovered": 472544,
+        "vaccinated": 0,
+        "tested": 4184
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d4846",
+      "date": "2021-03-08T23:00:00Z",
+      "details": {
+        "confirmed": 508,
+        "deaths": 12,
+        "recovered": 473208,
+        "vaccinated": 120908,
+        "tested": 9295
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d4847",
+      "date": "2021-03-09T23:00:00Z",
+      "details": {
+        "confirmed": 453,
+        "deaths": 10,
+        "recovered": 473738,
+        "vaccinated": 200083,
+        "tested": 10968
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d4848",
+      "date": "2021-03-10T23:00:00Z",
+      "details": {
+        "confirmed": 464,
+        "deaths": 7,
+        "recovered": 474257,
+        "vaccinated": 168402,
+        "tested": 12344
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d4849",
+      "date": "2021-03-11T23:00:00Z",
+      "details": {
+        "confirmed": 431,
+        "deaths": 4,
+        "recovered": 474938,
+        "vaccinated": 291407,
+        "tested": 13082
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d484a",
+      "date": "2021-03-12T23:00:00Z",
+      "details": {
+        "confirmed": 451,
+        "deaths": 2,
+        "recovered": 475457,
+        "vaccinated": 288416,
+        "tested": 11923
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d484b",
+      "date": "2021-03-13T23:00:00Z",
+      "details": {
+        "confirmed": 305,
+        "deaths": 5,
+        "recovered": 475849,
+        "vaccinated": 0,
+        "tested": 7605
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d484c",
+      "date": "2021-03-14T23:00:00Z",
+      "details": {
+        "confirmed": 159,
+        "deaths": 10,
+        "recovered": 476126,
+        "vaccinated": 0,
+        "tested": 3519
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d484d",
+      "date": "2021-03-15T23:00:00Z",
+      "details": {
+        "confirmed": 526,
+        "deaths": 4,
+        "recovered": 476727,
+        "vaccinated": 204599,
+        "tested": 10809
+      }
+    },
+    {
+      "id": "60c5de128b6b7821c25d484e",
+      "date": "2021-03-16T23:00:00Z",
+      "details": {
+        "confirmed": 466,
+        "deaths": 8,
+        "recovered": 477305,
+        "vaccinated": 163350,
+        "tested": 9960
+      }
+    },
+    {
+      "id": "60c5de138b6b7821c25d484f",
+      "date": "2021-03-17T23:00:00Z",
+      "details": {
+        "confirmed": 487,
+        "deaths": 3,
+        "recovered": 477879,
+        "vaccinated": 0,
+        "tested": 10285
+      }
+    },
+    {
+      "id": "60c5de138b6b7821c25d4850",
+      "date": "2021-03-18T23:00:00Z",
+      "details": {
+        "confirmed": 444,
+        "deaths": 7,
+        "recovered": 478386,
+        "vaccinated": 0,
+        "tested": 10281
+      }
+    },
+    {
+      "id": "60c5de138b6b7821c25d4851",
+      "date": "2021-03-19T23:00:00Z",
+      "details": {
+        "confirmed": 444,
+        "deaths": 8,
+        "recovered": 478870,
+        "vaccinated": 76387,
+        "tested": 11678
+      }
+    },
+    {
+      "id": "60c5de138b6b7821c25d4852",
+      "date": "2021-03-20T23:00:00Z",
+      "details": {
+        "confirmed": 246,
+        "deaths": 4,
+        "recovered": 479252,
+        "vaccinated": 0,
+        "tested": 6358
+      }
+    },
+    {
+      "id": "60c5de138b6b7821c25d4853",
+      "date": "2021-03-21T23:00:00Z",
+      "details": {
+        "confirmed": 125,
+        "deaths": 2,
+        "recovered": 479557,
+        "vaccinated": 0,
+        "tested": 4429
+      }
+    },
+    {
+      "id": "60c5de138b6b7821c25d4854",
+      "date": "2021-03-22T23:00:00Z",
+      "details": {
+        "confirmed": 569,
+        "deaths": 6,
+        "recovered": 480100,
+        "vaccinated": 76897,
+        "tested": 9786
+      }
+    },
+    {
+      "id": "60c5de138b6b7821c25d4855",
+      "date": "2021-03-23T23:00:00Z",
+      "details": {
+        "confirmed": 439,
+        "deaths": 11,
+        "recovered": 480607,
+        "vaccinated": 270576,
+        "tested": 10064
+      }
+    },
+    {
+      "id": "60c5de138b6b7821c25d4856",
+      "date": "2021-03-24T23:00:00Z",
+      "details": {
+        "confirmed": 511,
+        "deaths": 2,
+        "recovered": 481074,
+        "vaccinated": 231422,
+        "tested": 11564
+      }
+    },
+    {
+      "id": "60c5de138b6b7821c25d4857",
+      "date": "2021-03-25T23:00:00Z",
+      "details": {
+        "confirmed": 514,
+        "deaths": 5,
+        "recovered": 481597,
+        "vaccinated": 164888,
+        "tested": 12072
+      }
+    },
+    {
+      "id": "60c5de138b6b7821c25d4858",
+      "date": "2021-03-26T23:00:00Z",
+      "details": {
+        "confirmed": 491,
+        "deaths": 5,
+        "recovered": 482084,
+        "vaccinated": 109189,
+        "tested": 12594
+      }
+    },
+    {
+      "id": "60c5de138b6b7821c25d4859",
+      "date": "2021-03-27T23:00:00Z",
+      "details": {
+        "confirmed": 301,
+        "deaths": 0,
+        "recovered": 482352,
+        "vaccinated": 0,
+        "tested": 7945
+      }
+    },
+    {
+      "id": "60c5de138b6b7821c25d485a",
+      "date": "2021-03-28T23:00:00Z",
+      "details": {
+        "confirmed": 97,
+        "deaths": 9,
+        "recovered": 482585,
+        "vaccinated": 0,
+        "tested": 4206
+      }
+    },
+    {
+      "id": "60c5de138b6b7821c25d485b",
+      "date": "2021-03-29T23:00:00Z",
+      "details": {
+        "confirmed": 665,
+        "deaths": 6,
+        "recovered": 483165,
+        "vaccinated": 123800,
+        "tested": 11935
+      }
+    },
+    {
+      "id": "60c5de138b6b7821c25d485c",
+      "date": "2021-03-30T23:00:00Z",
+      "details": {
+        "confirmed": 676,
+        "deaths": 5,
+        "recovered": 483363,
+        "vaccinated": 112300,
+        "tested": 13297
+      }
+    },
+    {
+      "id": "60c5de138b6b7821c25d485d",
+      "date": "2021-03-31T23:00:00Z",
+      "details": {
+        "confirmed": 579,
+        "deaths": 7,
+        "recovered": 483711,
+        "vaccinated": 101854,
+        "tested": 0
+      }
+    },
+    {
+      "id": "60c5de138b6b7821c25d485e",
+      "date": "2021-04-01T23:00:00Z",
+      "details": {
+        "confirmed": 581,
+        "deaths": 10,
+        "recovered": 484224,
+        "vaccinated": 75197,
+        "tested": 0
+      }
+    },
+    {
+      "id": "60c5de138b6b7821c25d485f",
+      "date": "2021-04-02T23:00:00Z",
+      "details": {
+        "confirmed": 575,
+        "deaths": 7,
+        "recovered": 484793,
+        "vaccinated": 69219,
+        "tested": 14348
+      }
+    },
+    {
+      "id": "60c5de138b6b7821c25d4860",
+      "date": "2021-04-03T23:00:00Z",
+      "details": {
+        "confirmed": 365,
+        "deaths": 8,
+        "recovered": 484921,
+        "vaccinated": 0,
+        "tested": 7404
+      }
+    },
+    {
+      "id": "60c5de138b6b7821c25d4861",
+      "date": "2021-04-04T23:00:00Z",
+      "details": {
+        "confirmed": 132,
+        "deaths": 7,
+        "recovered": 485162,
+        "vaccinated": 0,
+        "tested": 4027
+      }
+    },
+    {
+      "id": "60c5de138b6b7821c25d4862",
+      "date": "2021-04-05T23:00:00Z",
+      "details": {
+        "confirmed": 696,
+        "deaths": 8,
+        "recovered": 485708,
+        "vaccinated": 72185,
+        "tested": 11988
+      }
+    },
+    {
+      "id": "60c5de138b6b7821c25d4863",
+      "date": "2021-04-06T23:00:00Z",
+      "details": {
+        "confirmed": 663,
+        "deaths": 2,
+        "recovered": 486349,
+        "vaccinated": 72865,
+        "tested": 13782
+      }
+    },
+    {
+      "id": "60c5de138b6b7821c25d4864",
+      "date": "2021-04-07T23:00:00Z",
+      "details": {
+        "confirmed": 635,
+        "deaths": 6,
+        "recovered": 486913,
+        "vaccinated": 61123,
+        "tested": 13757
+      }
+    },
+    {
+      "id": "60c5de138b6b7821c25d4865",
+      "date": "2021-04-08T23:00:00Z",
+      "details": {
+        "confirmed": 625,
+        "deaths": 12,
+        "recovered": 487414,
+        "vaccinated": 43075,
+        "tested": 13298
+      }
+    },
+    {
+      "id": "60c5de138b6b7821c25d4866",
+      "date": "2021-04-09T23:00:00Z",
+      "details": {
+        "confirmed": 740,
+        "deaths": 6,
+        "recovered": 488015,
+        "vaccinated": 54267,
+        "tested": 11627
+      }
+    },
+    {
+      "id": "60c5de138b6b7821c25d4867",
+      "date": "2021-04-10T23:00:00Z",
+      "details": {
+        "confirmed": 414,
+        "deaths": 9,
+        "recovered": 488361,
+        "vaccinated": 28667,
+        "tested": 8998
+      }
+    },
+    {
+      "id": "60c5de138b6b7821c25d4868",
+      "date": "2021-04-12T00:00:00Z",
+      "details": {
+        "confirmed": 175,
+        "deaths": 9,
+        "recovered": 488632,
+        "vaccinated": 0,
+        "tested": 4977
+      }
+    },
+    {
+      "id": "60c5de138b6b7821c25d4869",
+      "date": "2021-04-13T00:00:00Z",
+      "details": {
+        "confirmed": 684,
+        "deaths": 6,
+        "recovered": 489288,
+        "vaccinated": 0,
+        "tested": 9620
+      }
+    },
+    {
+      "id": "60c5de138b6b7821c25d486a",
+      "date": "2021-04-14T00:00:00Z",
+      "details": {
+        "confirmed": 703,
+        "deaths": 5,
+        "recovered": 489928,
+        "vaccinated": 45228,
+        "tested": 9584
+      }
+    },
+    {
+      "id": "60c5de138b6b7821c25d486b",
+      "date": "2021-04-15T00:00:00Z",
+      "details": {
+        "confirmed": 596,
+        "deaths": 7,
+        "recovered": 490366,
+        "vaccinated": 32349,
+        "tested": 9817
+      }
+    },
+    {
+      "id": "60c5de138b6b7821c25d486c",
+      "date": "2021-04-16T00:00:00Z",
+      "details": {
+        "confirmed": 587,
+        "deaths": 7,
+        "recovered": 490921,
+        "vaccinated": 35370,
+        "tested": 8842
+      }
+    },
+    {
+      "id": "60c5de138b6b7821c25d486d",
+      "date": "2021-04-17T00:00:00Z",
+      "details": {
+        "confirmed": 600,
+        "deaths": 10,
+        "recovered": 491537,
+        "vaccinated": 77637,
+        "tested": 10027
+      }
+    },
+    {
+      "id": "60c5de138b6b7821c25d486e",
+      "date": "2021-04-18T00:00:00Z",
+      "details": {
+        "confirmed": 364,
+        "deaths": 1,
+        "recovered": 491810,
+        "vaccinated": 0,
+        "tested": 5492
+      }
+    },
+    {
+      "id": "60c5de138b6b7821c25d486f",
+      "date": "2021-04-19T00:00:00Z",
+      "details": {
+        "confirmed": 138,
+        "deaths": 7,
+        "recovered": 492100,
+        "vaccinated": 0,
+        "tested": 3587
+      }
+    },
+    {
+      "id": "60c5de138b6b7821c25d4870",
+      "date": "2021-04-20T00:00:00Z",
+      "details": {
+        "confirmed": 720,
+        "deaths": 7,
+        "recovered": 492725,
+        "vaccinated": 17783,
+        "tested": 8468
+      }
+    },
+    {
+      "id": "60c5de138b6b7821c25d4871",
+      "date": "2021-04-21T00:00:00Z",
+      "details": {
+        "confirmed": 669,
+        "deaths": 10,
+        "recovered": 493353,
+        "vaccinated": 23207,
+        "tested": 9411
+      }
+    },
+    {
+      "id": "60c5de138b6b7821c25d4872",
+      "date": "2021-04-22T00:00:00Z",
+      "details": {
+        "confirmed": 600,
+        "deaths": 7,
+        "recovered": 493873,
+        "vaccinated": 13304,
+        "tested": 8762
+      }
+    },
+    {
+      "id": "60c5de138b6b7821c25d4873",
+      "date": "2021-04-23T00:00:00Z",
+      "details": {
+        "confirmed": 592,
+        "deaths": 7,
+        "recovered": 494415,
+        "vaccinated": 26164,
+        "tested": 8942
+      }
+    },
+    {
+      "id": "60c5de138b6b7821c25d4874",
+      "date": "2021-04-24T00:00:00Z",
+      "details": {
+        "confirmed": 507,
+        "deaths": 5,
+        "recovered": 494872,
+        "vaccinated": 0,
+        "tested": 9028
+      }
+    },
+    {
+      "id": "60c5de138b6b7821c25d4875",
+      "date": "2021-04-25T00:00:00Z",
+      "details": {
+        "confirmed": 326,
+        "deaths": 4,
+        "recovered": 495262,
+        "vaccinated": 0,
+        "tested": 6670
+      }
+    },
+    {
+      "id": "60c5de138b6b7821c25d4876",
+      "date": "2021-04-26T00:00:00Z",
+      "details": {
+        "confirmed": 102,
+        "deaths": 7,
+        "recovered": 495408,
+        "vaccinated": 0,
+        "tested": 3689
+      }
+    },
+    {
+      "id": "60c5de138b6b7821c25d4877",
+      "date": "2021-04-27T00:00:00Z",
+      "details": {
+        "confirmed": 507,
+        "deaths": 6,
+        "recovered": 496031,
+        "vaccinated": 90669,
+        "tested": 8532
+      }
+    },
+    {
+      "id": "60c5de138b6b7821c25d4878",
+      "date": "2021-04-28T00:00:00Z",
+      "details": {
+        "confirmed": 493,
+        "deaths": 10,
+        "recovered": 496583,
+        "vaccinated": 197988,
+        "tested": 8588
+      }
+    },
+    {
+      "id": "60c5de138b6b7821c25d4879",
+      "date": "2021-04-29T00:00:00Z",
+      "details": {
+        "confirmed": 421,
+        "deaths": 5,
+        "recovered": 497105,
+        "vaccinated": 0,
+        "tested": 8994
+      }
+    },
+    {
+      "id": "60c5de138b6b7821c25d487a",
+      "date": "2021-04-30T00:00:00Z",
+      "details": {
+        "confirmed": 363,
+        "deaths": 3,
+        "recovered": 497621,
+        "vaccinated": 0,
+        "tested": 8419
+      }
+    },
+    {
+      "id": "60c5de138b6b7821c25d487b",
+      "date": "2021-05-01T00:00:00Z",
+      "details": {
+        "confirmed": 313,
+        "deaths": 3,
+        "recovered": 498131,
+        "vaccinated": 790,
+        "tested": 8007
+      }
+    },
+    {
+      "id": "60c5de138b6b7821c25d487c",
+      "date": "2021-05-02T00:00:00Z",
+      "details": {
+        "confirmed": 294,
+        "deaths": 2,
+        "recovered": 498415,
+        "vaccinated": 0,
+        "tested": 7668
+      }
+    },
+    {
+      "id": "60c5de138b6b7821c25d487d",
+      "date": "2021-05-03T00:00:00Z",
+      "details": {
+        "confirmed": 56,
+        "deaths": 4,
+        "recovered": 498624,
+        "vaccinated": 0,
+        "tested": 4331
+      }
+    },
+    {
+      "id": "60c5de138b6b7821c25d487e",
+      "date": "2021-05-04T00:00:00Z",
+      "details": {
+        "confirmed": 373,
+        "deaths": 6,
+        "recovered": 499089,
+        "vaccinated": 169242,
+        "tested": 9409
+      }
+    },
+    {
+      "id": "60c5de138b6b7821c25d487f",
+      "date": "2021-05-05T00:00:00Z",
+      "details": {
+        "confirmed": 371,
+        "deaths": 5,
+        "recovered": 499491,
+        "vaccinated": 122315,
+        "tested": 8983
+      }
+    },
+    {
+      "id": "60c5de138b6b7821c25d4880",
+      "date": "2021-05-06T00:00:00Z",
+      "details": {
+        "confirmed": 360,
+        "deaths": 6,
+        "recovered": 499917,
+        "vaccinated": 0,
+        "tested": 8983
+      }
+    },
+    {
+      "id": "60c5de138b6b7821c25d4881",
+      "date": "2021-05-07T00:00:00Z",
+      "details": {
+        "confirmed": 298,
+        "deaths": 8,
+        "recovered": 500192,
+        "vaccinated": 0,
+        "tested": 9213
+      }
+    },
+    {
+      "id": "60c5de148b6b7821c25d4882",
+      "date": "2021-05-08T00:00:00Z",
+      "details": {
+        "confirmed": 314,
+        "deaths": 7,
+        "recovered": 500540,
+        "vaccinated": 71422,
+        "tested": 9495
+      }
+    },
+    {
+      "id": "60c5de148b6b7821c25d4883",
+      "date": "2021-05-09T00:00:00Z",
+      "details": {
+        "confirmed": 236,
+        "deaths": 8,
+        "recovered": 500914,
+        "vaccinated": 0,
+        "tested": 6535
+      }
+    },
+    {
+      "id": "60c5de148b6b7821c25d4884",
+      "date": "2021-05-10T00:00:00Z",
+      "details": {
+        "confirmed": 58,
+        "deaths": 5,
+        "recovered": 501146,
+        "vaccinated": 0,
+        "tested": 3471
+      }
+    },
+    {
+      "id": "60c5de148b6b7821c25d4885",
+      "date": "2021-05-11T00:00:00Z",
+      "details": {
+        "confirmed": 242,
+        "deaths": 6,
+        "recovered": 501404,
+        "vaccinated": 185854,
+        "tested": 7955
+      }
+    },
+    {
+      "id": "60c5de148b6b7821c25d4886",
+      "date": "2021-05-12T00:00:00Z",
+      "details": {
+        "confirmed": 268,
+        "deaths": 5,
+        "recovered": 501692,
+        "vaccinated": 118397,
+        "tested": 8686
+      }
+    },
+    {
+      "id": "60c5de148b6b7821c25d4887",
+      "date": "2021-05-13T00:00:00Z",
+      "details": {
+        "confirmed": 238,
+        "deaths": 3,
+        "recovered": 502205,
+        "vaccinated": 0,
+        "tested": 9139
+      }
+    },
+    {
+      "id": "60c5de148b6b7821c25d4888",
+      "date": "2021-05-14T00:00:00Z",
+      "details": {
+        "confirmed": 35,
+        "deaths": 1,
+        "recovered": 502604,
+        "vaccinated": 0,
+        "tested": 3409
+      }
+    },
+    {
+      "id": "60c5de148b6b7821c25d4889",
+      "date": "2021-05-15T00:00:00Z",
+      "details": {
+        "confirmed": 112,
+        "deaths": 6,
+        "recovered": 502884,
+        "vaccinated": 180980,
+        "tested": 3692
+      }
+    },
+    {
+      "id": "60c5de148b6b7821c25d488a",
+      "date": "2021-05-16T00:00:00Z",
+      "details": {
+        "confirmed": 127,
+        "deaths": 0,
+        "recovered": 503181,
+        "vaccinated": 0,
+        "tested": 6343
+      }
+    },
+    {
+      "id": "60c5de148b6b7821c25d488b",
+      "date": "2021-05-16T23:00:00Z",
+      "details": {
+        "confirmed": 79,
+        "deaths": 6,
+        "recovered": 503483,
+        "vaccinated": 0,
+        "tested": 4021
+      }
+    },
+    {
+      "id": "60c5de148b6b7821c25d488c",
+      "date": "2021-05-17T23:00:00Z",
+      "details": {
+        "confirmed": 397,
+        "deaths": 1,
+        "recovered": 503861,
+        "vaccinated": 348173,
+        "tested": 10688
+      }
+    },
+    {
+      "id": "60c5de148b6b7821c25d488d",
+      "date": "2021-05-18T23:00:00Z",
+      "details": {
+        "confirmed": 338,
+        "deaths": 1,
+        "recovered": 504210,
+        "vaccinated": 354039,
+        "tested": 9749
+      }
+    },
+    {
+      "id": "60c5de148b6b7821c25d488e",
+      "date": "2021-05-19T23:00:00Z",
+      "details": {
+        "confirmed": 333,
+        "deaths": 3,
+        "recovered": 504439,
+        "vaccinated": 312135,
+        "tested": 10405
+      }
+    },
+    {
+      "id": "60c5de148b6b7821c25d488f",
+      "date": "2021-05-20T23:00:00Z",
+      "details": {
+        "confirmed": 358,
+        "deaths": 6,
+        "recovered": 504757,
+        "vaccinated": 269578,
+        "tested": 10363
+      }
+    },
+    {
+      "id": "60c5de148b6b7821c25d4890",
+      "date": "2021-05-21T23:00:00Z",
+      "details": {
+        "confirmed": 363,
+        "deaths": 4,
+        "recovered": 505050,
+        "vaccinated": 181773,
+        "tested": 11365
+      }
+    },
+    {
+      "id": "60c5de148b6b7821c25d4891",
+      "date": "2021-05-22T23:00:00Z",
+      "details": {
+        "confirmed": 211,
+        "deaths": 3,
+        "recovered": 505228,
+        "vaccinated": 0,
+        "tested": 8290
+      }
+    },
+    {
+      "id": "60c5de148b6b7821c25d4892",
+      "date": "2021-05-23T23:00:00Z",
+      "details": {
+        "confirmed": 90,
+        "deaths": 4,
+        "recovered": 505392,
+        "vaccinated": 0,
+        "tested": 3495
+      }
+    },
+    {
+      "id": "60c5de148b6b7821c25d4893",
+      "date": "2021-05-24T23:00:00Z",
+      "details": {
+        "confirmed": 310,
+        "deaths": 3,
+        "recovered": 505668,
+        "vaccinated": 457717,
+        "tested": 8847
+      }
+    },
+    {
+      "id": "60c5de148b6b7821c25d4894",
+      "date": "2021-05-25T23:00:00Z",
+      "details": {
+        "confirmed": 385,
+        "deaths": 2,
+        "recovered": 506061,
+        "vaccinated": 0,
+        "tested": 9618
+      }
+    },
+    {
+      "id": "60c5de148b6b7821c25d4895",
+      "date": "2021-05-26T23:00:00Z",
+      "details": {
+        "confirmed": 314,
+        "deaths": 3,
+        "recovered": 506208,
+        "vaccinated": 0,
+        "tested": 8935
+      }
+    },
+    {
+      "id": "60c5de148b6b7821c25d4896",
+      "date": "2021-05-27T23:00:00Z",
+      "details": {
+        "confirmed": 336,
+        "deaths": 1,
+        "recovered": 506443,
+        "vaccinated": 0,
+        "tested": 10103
+      }
+    },
+    {
+      "id": "60c5de148b6b7821c25d4897",
+      "date": "2021-05-28T23:00:00Z",
+      "details": {
+        "confirmed": 410,
+        "deaths": 3,
+        "recovered": 506740,
+        "vaccinated": 0,
+        "tested": 10021
+      }
+    },
+    {
+      "id": "60c5de148b6b7821c25d4898",
+      "date": "2021-05-29T23:00:00Z",
+      "details": {
+        "confirmed": 240,
+        "deaths": 5,
+        "recovered": 506962,
+        "vaccinated": 0,
+        "tested": 7045
+      }
+    },
+    {
+      "id": "60c5de148b6b7821c25d4899",
+      "date": "2021-05-30T23:00:00Z",
+      "details": {
+        "confirmed": 108,
+        "deaths": 4,
+        "recovered": 507125,
+        "vaccinated": 0,
+        "tested": 4434
+      }
+    },
+    {
+      "id": "60c5de148b6b7821c25d489a",
+      "date": "2021-05-31T23:00:00Z",
+      "details": {
+        "confirmed": 394,
+        "deaths": 7,
+        "recovered": 507528,
+        "vaccinated": 270573,
+        "tested": 8696
+      }
+    },
+    {
+      "id": "60c5de148b6b7821c25d489b",
+      "date": "2021-06-01T23:00:00Z",
+      "details": {
+        "confirmed": 418,
+        "deaths": 6,
+        "recovered": 507838,
+        "vaccinated": 200469,
+        "tested": 9459
+      }
+    },
+    {
+      "id": "60c5de148b6b7821c25d489c",
+      "date": "2021-06-02T23:00:00Z",
+      "details": {
+        "confirmed": 395,
+        "deaths": 5,
+        "recovered": 508210,
+        "vaccinated": 298719,
+        "tested": 8770
+      }
+    },
+    {
+      "id": "60c5de148b6b7821c25d489d",
+      "date": "2021-06-03T23:00:00Z",
+      "details": {
+        "confirmed": 346,
+        "deaths": 4,
+        "recovered": 508570,
+        "vaccinated": 0,
+        "tested": 9891
+      }
+    },
+    {
+      "id": "60c5de148b6b7821c25d489e",
+      "date": "2021-06-04T23:00:00Z",
+      "details": {
+        "confirmed": 426,
+        "deaths": 4,
+        "recovered": 508850,
+        "vaccinated": 0,
+        "tested": 10327
+      }
+    },
+    {
+      "id": "60c5de148b6b7821c25d489f",
+      "date": "2021-06-05T23:00:00Z",
+      "details": {
+        "confirmed": 231,
+        "deaths": 5,
+        "recovered": 509083,
+        "vaccinated": 0,
+        "tested": 6680
+      }
+    },
+    {
+      "id": "60c5de148b6b7821c25d48a0",
+      "date": "2021-06-06T23:00:00Z",
+      "details": {
+        "confirmed": 104,
+        "deaths": 3,
+        "recovered": 509277,
+        "vaccinated": 0,
+        "tested": 3791
+      }
+    },
+    {
+      "id": "60c5de148b6b7821c25d48a1",
+      "date": "2021-06-07T23:00:00Z",
+      "details": {
+        "confirmed": 473,
+        "deaths": 6,
+        "recovered": 509660,
+        "vaccinated": 418481,
+        "tested": 9897
+      }
+    },
+    {
+      "id": "60c5de148b6b7821c25d48a2",
+      "date": "2021-06-08T23:00:00Z",
+      "details": {
+        "confirmed": 386,
+        "deaths": 3,
+        "recovered": 509958,
+        "vaccinated": 243996,
+        "tested": 9896
+      }
+    },
+    {
+      "id": "60c5de148b6b7821c25d48a3",
+      "date": "2021-06-09T23:00:00Z",
+      "details": {
+        "confirmed": 376,
+        "deaths": 2,
+        "recovered": 510299,
+        "vaccinated": 195003,
+        "tested": 9189
+      }
+    },
+    {
+      "id": "60c5de148b6b7821c25d48a4",
+      "date": "2021-06-10T23:00:00Z",
+      "details": {
+        "confirmed": 400,
+        "deaths": 10,
+        "recovered": 510623,
+        "vaccinated": 172031,
+        "tested": 0
+      }
+    },
+    {
+      "id": "60c5de148b6b7821c25d48a5",
+      "date": "2021-06-11T23:00:00Z",
+      "details": {
+        "confirmed": 455,
+        "deaths": 5,
+        "recovered": 510958,
+        "vaccinated": 48207,
+        "tested": 0
+      }
+    }
+  ],
+  "details": {
+    "confirmed": 523620,
+    "deaths": 9207,
+    "recovered": 510958,
+    "vaccinated": 12040252,
+    "tested": 5930264
+  }
+}

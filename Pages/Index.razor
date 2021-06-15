@@ -1,0 +1,57 @@
+﻿@page "/"
+@inject HttpClient Http
+@inject IJSRuntime JSRuntime
+
+<MudContainer Class="mt-16 px-8" MaxWidth="MaxWidth.False">
+    <MudGrid>
+        <MudItem xs="12" sm="12" md="12">
+            <MudPaper Elevation="2" Class="pa-4" Style="height: 250px;"> 
+                <Overview data="@Morocco.Details" />
+            </MudPaper>
+        </MudItem>
+        <MudItem xs="12" sm="6">
+            <MudGrid>
+                <MudItem xs="12">
+                    <MudPaper Elevation="2" Class="pa-4" Style="height: 400px;">
+                        <Chart Morocco="@Morocco" @ref="chart" />
+                    </MudPaper>
+                </MudItem>
+                <MudItem xs="12">
+                    <MudPaper Elevation="2" Class="pa-4" Style="height: 400px;"> 
+                        <Table regions="@Morocco.Regions" MapContainer="map" cache="@Morocco.Regions"/>                
+                    </MudPaper>
+                </MudItem>
+            </MudGrid>
+        </MudItem>
+        <MudItem xs="12" sm="6">
+            <MudPaper Elevation="2" Class="pa-4" Style="height: 100%">
+               <Map @ref="map"/>           
+            </MudPaper>
+        </MudItem>
+    </MudGrid>
+</MudContainer>
+
+@code {
+    public Chart chart {get; set;}
+    public Map map {get; set;}
+
+    private Country Morocco {get; set;} = new Country {
+        Name = "Morocco",
+        Regions = new Region[0],
+        Evolution = new TimeStamp[0],
+        Details = new Data {
+            Confirmed = 0 ,
+            Deaths = 0 ,
+            Recovered = 0 ,
+            Vaccinated = 0 ,
+            Tested = 0
+        }
+    };
+
+    protected override async Task OnInitializedAsync()
+    {
+        Morocco = await Http.GetFromJsonAsync<Country>("Http://localhost:8000/Country");
+        await chart.Populate(Morocco);
+        StateHasChanged();
+    }
+}

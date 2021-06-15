@@ -1,0 +1,23 @@
+<MudCarousel Style="height:300px;" ShowArrows="@arrows" ShowDelimiters="@delimiters" AutoCycle="@autocycle" TData="object">
+    <MudCarouselItem Transition="transition">
+        <MudPaper Class="d-flex" Style="height:100%;width:100%;">
+            <MudPaper Class="mud-theme-secondary align-self-stretch" Width="100%"><MudText Typo="Typo.h1" Width="100%" Align="Align.Center" Style="margin-top:50px;"> Morocco </MudText></MudPaper>
+        </MudPaper>
+    </MudCarouselItem>
+    <MudCarouselItem Transition="transition">
+        <MudPaper Class="d-flex" Style="height:100%;width:100%;">
+            <MudPaper Class="align-self-stretch" Width="100%"><MudText Typo="Typo.h1" Width="100%" Align="Align.Center" Style="margin-top:50px;"> Covid-19 </MudText></MudPaper>
+        </MudPaper>
+    </MudCarouselItem>
+    <MudCarouselItem Transition="transition">
+        <MudPaper Class="d-flex" Style="height:100%;width:100%;">
+            <MudPaper Class="mud-theme-primary align-self-stretch" Width="100%"><MudText Typo="Typo.h1" Width="100%" Align="Align.Center" Style="margin-top:50px;"> MarrueCov </MudText></MudPaper>
+        </MudPaper>
+    </MudCarouselItem>
+</MudCarousel>
+@code{ 
+    private bool arrows = true;
+    private bool delimiters = true;
+    private bool autocycle = true;
+    private Transition transition = Transition.Slide;
+}

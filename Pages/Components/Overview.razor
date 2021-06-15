@@ -1,0 +1,54 @@
+<MudTabs Elevation="2" Rounded="true" ApplyEffectsToContainer="true" PanelClass="pa-6">
+    <MudTabPanel Text="Confirmed">
+        <MudCard Outlined="true">
+            <MudCardContent>
+                <MudText Typo="Typo.h4">Total Confirmed Cases</MudText>
+                <MudText Typo="Typo.h3">@data.Confirmed</MudText>
+            </MudCardContent>
+        </MudCard>
+    </MudTabPanel>
+    <MudTabPanel Text="Recovered">
+        <MudCard Outlined="true">
+            <MudCardContent>
+                <MudText Typo="Typo.h4">Total Recovered People</MudText>
+                <MudText Typo="Typo.h3">@data.Recovered</MudText>
+            </MudCardContent>
+        </MudCard>
+    </MudTabPanel>
+    <MudTabPanel Text="Vaccinated">
+        <MudCard Outlined="true">
+            <MudCardContent>
+                <MudText Typo="Typo.h4">Total Vaccinated People</MudText>
+                <MudText Typo="Typo.h3">@data.Vaccinated</MudText>
+            </MudCardContent>
+        </MudCard>
+    </MudTabPanel>
+    <MudTabPanel Text="Tested">
+        <MudCard Outlined="true">
+            <MudCardContent>
+                <MudText Typo="Typo.h4">Total Test Conducted</MudText>
+                <MudText Typo="Typo.h3">@data.Tested</MudText>
+            </MudCardContent>
+        </MudCard>
+    </MudTabPanel>
+    <MudTabPanel Text="Deaths">
+        <MudCard Outlined="true">
+            <MudCardContent>
+                <MudText Typo="Typo.h4">Total Casualties of the Virus</MudText>
+                <MudText Typo="Typo.h3">@data.Deaths</MudText>
+            </MudCardContent>
+        </MudCard>
+    </MudTabPanel>
+    <MudTabPanel Text="Population">
+        <MudCard Outlined="true">
+            <MudCardContent>
+                <MudText Typo="Typo.h4">Total Population : </MudText>
+                <MudText Typo="Typo.h3">39 millions people</MudText>
+            </MudCardContent>
+        </MudCard>
+    </MudTabPanel>
+</MudTabs>
+
+@code {
+    [Parameter] public Data data {get; set;}
+}
