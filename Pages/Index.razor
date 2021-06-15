@@ -50,7 +50,7 @@
 
     protected override async Task OnInitializedAsync()
     {
-        Morocco = await Http.GetFromJsonAsync<Country>("Http://localhost:8000/Country");
+        Morocco = await Http.GetFromJsonAsync<Country>("Http://Localhost:8000/Country");
         await chart.Populate(Morocco);
         StateHasChanged();
     }

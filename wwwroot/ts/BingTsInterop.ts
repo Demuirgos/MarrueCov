@@ -26,6 +26,6 @@ function AddPushpin(sitePin : BingPin) : void {
         anchor: new Microsoft.Maps.Point(12, 39),
         color: sitePin.color
     });
-    bingMap.map.setView({ center: sitePin.location, zoom: 15 });
+    bingMap.map.setView({ center: sitePin.location, zoom: 10 });
     bingMap.map.entities.push(pushpin);      
 }

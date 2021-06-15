@@ -56,10 +56,10 @@
 
         var (TestesT, RecoveredT, ConfirmedT, DeathT) =  Morocco.Regions
                                .Select((r) => (r.Details.Tested, r.Details.Recovered, r.Details.Confirmed, r.Details.Deaths))
-                               .Aggregate((0, 0, 0 ,0), (acc, dt) => {
-                                   var (o_t,o_r,o_c,o_d) = dt;
+                               .Aggregate((0, 0, 0 ,0), (acc, old) => {
+                                   var (o_t,o_r,o_c,o_d) = old;
                                    var (n_t,n_r,n_c,n_d) = acc;
-                                   return (o_t + n_t, o_c + n_c, o_d + n_d, o_r > n_r ? o_r : n_r);
+                                   return (o_t + n_t, o_r > n_r ? o_r : n_r, o_c + n_c, o_d + n_d);
                                 });
         SeriesChart3 = new double[]{TestesT, RecoveredT, ConfirmedT, DeathT};
         
