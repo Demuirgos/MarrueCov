@@ -1,4 +1,4 @@
-﻿@page "/"
+@page "/"
 @inject HttpClient Http
 @inject IJSRuntime JSRuntime
 
@@ -18,7 +18,7 @@
                 </MudItem>
                 <MudItem xs="12">
                     <MudPaper Elevation="2" Class="pa-4" Style="height: 400px;"> 
-                        <Table regions="@Morocco.Regions" MapContainer="map" cache="@Morocco.Regions"/>                
+                        <Table regions="@Morocco.Regions" MapContainer="map" ChartContainer="chart" cache="@Morocco.Regions"/>                
                     </MudPaper>
                 </MudItem>
             </MudGrid>
