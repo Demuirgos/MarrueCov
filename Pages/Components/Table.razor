@@ -1,3 +1,4 @@
+@inject IJSRuntime JSRuntime
 <MudTable Items="@cache" Hover="true" Breakpoint="Breakpoint.Sm" Style="Height:100%;overflow-y:scroll;">
     <ToolBarContent>
         <MudText Typo="Typo.h6">Periodic Elements</MudText>
@@ -21,16 +22,20 @@
 
 @code {
     [Parameter] public Map MapContainer { get; set; }
+    [Parameter] public Chart ChartContainer { get; set; }
     [Parameter] public IEnumerable<Region> regions {get; set;}
     [Parameter] public IEnumerable<Region> cache {get; set;}
     public string searchString = null;
 
     private async Task OnSearch(string text)
     {
+        await JSRuntime.InvokeAsync<Task>("console.log", (object)text);
         searchString = text;
         cache = from region in regions where region.Name.Contains(searchString) select region;
         StateHasChanged();
-        if(cache.Count() == 1)
+        ChartContainer.Populate(filter : text);
+        if(cache.Count() == 1) {
             await MapContainer.Tack(text);
+        }
     }
 }
